@@ -82,7 +82,7 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
             // AI 配置
             const CalligraphyText('AI 解卦配置', fontSize: 14, color: AppColors.inkGray),
             const SizedBox(height: 4),
-            const CalligraphyText('（支持兼容 Anthropic 协议的 API）', fontSize: 12, color: AppColors.inkLight),
+            const CalligraphyText('（支持 OpenAI / DeepSeek 兼容 API）', fontSize: 12, color: AppColors.inkLight),
             const SizedBox(height: 8),
             AntiqueCard(
               padding: const EdgeInsets.all(16),

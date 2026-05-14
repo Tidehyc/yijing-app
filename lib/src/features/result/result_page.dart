@@ -7,6 +7,7 @@ import '../../services/ai_config_service.dart';
 import '../../services/ai_interpretation_service.dart';
 import '../../utils/divination_logic.dart';
 import '../../utils/hexagram_lookup.dart';
+import 'package:flutter_markdown/flutter_markdown.dart';
 import '../../widgets/antique_card.dart';
 import '../../widgets/calligraphy_text.dart';
 import 'widgets/hexagram_display.dart';
@@ -280,7 +281,16 @@ class _ResultPageState extends ConsumerState<ResultPage>
           const SizedBox(height: 12),
           const CalligraphyText('AI 解读', fontSize: 15, fontWeight: FontWeight.bold, color: AppColors.cinnabarRed),
           const SizedBox(height: 8),
-          CalligraphyText(_aiResult!, fontSize: 14, fontFamily: 'FangSong', height: 1.9),
+          MarkdownBody(
+            data: _aiResult!,
+            styleSheet: MarkdownStyleSheet(
+              p: const TextStyle(fontFamily: 'FangSong', fontSize: 15, height: 1.8, color: AppColors.inkBlack),
+              h2: const TextStyle(fontFamily: 'KaiTi', fontSize: 18, fontWeight: FontWeight.bold, color: AppColors.inkBlack),
+              h3: const TextStyle(fontFamily: 'KaiTi', fontSize: 16, fontWeight: FontWeight.bold, color: AppColors.inkBlack),
+              strong: const TextStyle(fontFamily: 'KaiTi', fontWeight: FontWeight.bold, color: AppColors.cinnabarRed),
+              listBullet: const TextStyle(fontFamily: 'FangSong', fontSize: 15, color: AppColors.inkBlack),
+            ),
+          ),
         ],
         if (_aiError != null) ...[
           const SizedBox(height: 12),
