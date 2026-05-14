@@ -32,6 +32,7 @@ class _ResultPageState extends ConsumerState<ResultPage>
   List<Map<String, dynamic>> _lineTexts = [];
   bool _loading = true;
   bool _saved = false;
+  int? _recordId;
 
   // AI 解卦状态
   final _questionCtrl = TextEditingController();
@@ -104,7 +105,7 @@ class _ResultPageState extends ConsumerState<ResultPage>
     final db = ref.read(databaseProvider);
     await db.database;
 
-    await db.divinationDao.insertRecord({
+    final id = await db.divinationDao.insertRecord({
       'created_at': DateTime.now().toIso8601String(),
       'original_hexagram_id': _result.originalHexagramId,
       'changing_hexagram_id': _result.changingHexagramId,
@@ -112,6 +113,7 @@ class _ResultPageState extends ConsumerState<ResultPage>
       'cast_sequence': _result.castSequence.join(','),
       'solar_date': DateTime.now().toString().split(' ')[0],
     });
+    _recordId = id;
   }
 
   @override
@@ -352,12 +354,12 @@ $changingInfo
       );
       setState(() { _aiResult = result; _aiLoading = false; });
 
-      // Save question to record
-      final db = ref.read(databaseProvider);
-      await db.database;
-      final records = await db.divinationDao.getRecords(limit: 1);
-      if (records.isNotEmpty) {
-        await db.divinationDao.updateQuestion(records.first['id'] as int, question);
+      // Save question and AI result to record
+      if (_recordId != null) {
+        final db = ref.read(databaseProvider);
+        await db.database;
+        await db.divinationDao.updateQuestion(_recordId!, question);
+        await db.divinationDao.updateAiResult(_recordId!, result);
       }
     } catch (e) {
       setState(() {

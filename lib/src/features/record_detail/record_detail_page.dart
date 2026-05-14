@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../constants/app_colors.dart';
 import '../../constants/app_dimensions.dart';
@@ -150,6 +151,10 @@ class _RecordDetailPageState extends ConsumerState<RecordDetailPage> {
 
             // 解读内容
             if (!_showDeep) _buildShallow() else _buildDeep(),
+            const SizedBox(height: 12),
+
+            // AI 解卦结果
+            _buildAiSection(),
             const SizedBox(height: 12),
 
             // 占问事项
@@ -375,6 +380,33 @@ class _RecordDetailPageState extends ConsumerState<RecordDetailPage> {
 
   Widget _collapsibleCard(String title, List<Widget> children, {bool initiallyExpanded = false}) {
     return _CollapsibleSection(title: title, initiallyExpanded: initiallyExpanded, child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: children));
+  }
+
+  Widget _buildAiSection() {
+    final aiResult = _record?['ai_result'] as String?;
+    if (aiResult == null || aiResult.isEmpty) return const SizedBox.shrink();
+
+    return AntiqueCard(
+      padding: const EdgeInsets.all(20),
+      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        Row(children: [
+          Icon(Icons.auto_awesome, color: AppColors.cinnabarRed, size: 20),
+          const SizedBox(width: 8),
+          const CalligraphyText('AI 解卦', fontSize: 16, fontWeight: FontWeight.bold, color: AppColors.cinnabarRed),
+        ]),
+        const SizedBox(height: 12),
+        MarkdownBody(
+          data: aiResult,
+          styleSheet: MarkdownStyleSheet(
+            p: const TextStyle(fontFamily: 'FangSong', fontSize: 15, height: 1.8, color: AppColors.inkBlack),
+            h2: const TextStyle(fontFamily: 'KaiTi', fontSize: 18, fontWeight: FontWeight.bold, color: AppColors.inkBlack),
+            h3: const TextStyle(fontFamily: 'KaiTi', fontSize: 16, fontWeight: FontWeight.bold, color: AppColors.inkBlack),
+            strong: const TextStyle(fontFamily: 'KaiTi', fontWeight: FontWeight.bold, color: AppColors.cinnabarRed),
+            listBullet: const TextStyle(fontFamily: 'FangSong', fontSize: 15, color: AppColors.inkBlack),
+          ),
+        ),
+      ]),
+    );
   }
 
   Widget _buildQuestionField() {

@@ -64,8 +64,13 @@ class Tables {
       is_deleted INTEGER DEFAULT 0,
       lunar_date TEXT,
       solar_date TEXT,
+      ai_result TEXT,
       FOREIGN KEY (original_hexagram_id) REFERENCES hexagrams(id),
       FOREIGN KEY (changing_hexagram_id) REFERENCES hexagrams(id)
     )
+  ''';
+
+  static const String migrateAddAiResult = '''
+    ALTER TABLE divination_records ADD COLUMN ai_result TEXT
   ''';
 }

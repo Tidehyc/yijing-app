@@ -41,8 +41,9 @@ class DatabaseHelper {
 
     final db = await openDatabase(
       path,
-      version: 1,
+      version: 2,
       onCreate: _onCreate,
+      onUpgrade: _onUpgrade,
     );
 
     _hexagramDao = HexagramDao(db);
@@ -60,5 +61,15 @@ class DatabaseHelper {
     await db.execute(Tables.createHexagramLines);
     await db.execute(Tables.createCaseReferences);
     await db.execute(Tables.createDivinationRecords);
+  }
+
+  Future<void> _onUpgrade(Database db, int oldVersion, int newVersion) async {
+    if (oldVersion < 2) {
+      try {
+        await db.execute(Tables.migrateAddAiResult);
+      } catch (_) {
+        // Column may already exist
+      }
+    }
   }
 }

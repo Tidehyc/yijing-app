@@ -27,6 +27,15 @@ class DivinationDao {
     );
   }
 
+  Future<void> updateAiResult(int id, String aiResult) async {
+    await db.update(
+      'divination_records',
+      {'ai_result': aiResult},
+      where: 'id = ?',
+      whereArgs: [id],
+    );
+  }
+
   Future<void> softDelete(int id) async {
     await db.update(
       'divination_records',
