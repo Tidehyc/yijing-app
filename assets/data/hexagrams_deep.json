@@ -5,7 +5,7 @@
     "judgment": "乾，元亨利贞。",
     "judgment_vernacular": "乾卦，创始、通达、适宜、正固。这四个字概括了乾卦的核心精神：万物创始的源泉，一切亨通的基础，行事适宜的根本，守持正固的法则。",
     "tuan_zhuan": "大哉乾元，万物资始，乃统天。云行雨施，品物流形。大明终始，六位时成，时乘六龙以御天。乾道变化，各正性命，保合太和，乃利贞。首出庶物，万国咸宁。",
-    "tuan_zhuan_vernacular": "伟大啊乾卦的阳刚之气！万物由此开始生长，它统领着整个天道运行。云行雨降，万物各具形态。太阳的光辉周而复始，六爻的位置依时而成，就像驾驭六条龙在天空中飞行。乾道的变化，使万物各自安定其性命，保持和谐的状态，这就是利贞的含义。乾卦居于万物之首，使天下万国都得到安宁。",
+    "tuan_zhuan_vernacular": "伟大啊乾卦的阳刚之气！万物由此开始生长，统领着整个天道运行。云行雨降，万物各具形态。太阳的光辉周而复始，六爻位置依时而成，如同驾驭六条龙在天飞行。乾道的变化使万物各自安定性命，保持和谐状态，这就是利贞的含义。乾卦居于万物之首，使万国安宁。",
     "xiang_zhuan": "天行健，君子以自强不息。",
     "xiang_zhuan_vernacular": "天道运行刚健有力，永不停止。君子效法天道，应当自强不息，不断进取。",
     "lines": [
@@ -13,10 +13,10 @@
         "number": 1,
         "name": "初九",
         "text": "潜龙勿用。",
-        "vernacular": "龙潜藏在水底深处，不宜有所作为。初爻阳刚在下，象征事物刚刚开始，力量尚微，应当韬光养晦，积蓄力量，不可急于表现。",
+        "vernacular": "龙潜藏在水底深处，不宜有所作为。初爻在下，象征事物刚刚开始，力量尚微，应韬光养晦积蓄力量，不可急于表现。",
         "xiao_xiang": "潜龙勿用，阳在下也。",
-        "xiao_xiang_vernacular": "潜龙不宜妄动，因为阳刚之气尚在下方，时机未到。",
-        "changing_meaning": "若此爻变动（初爻由阳变阴），表示时机尚未成熟，贸然行动可能会遇到阻碍。应当耐心等待，积蓄实力。此时宜隐忍、学习、准备，而非贸然出击。"
+        "xiao_xiang_vernacular": "潜龙不宜妄动，因为阳气尚在下方，时机未到。",
+        "changing_meaning": "若此爻变动（初爻由阳变阴），表示时机尚未成熟，贸然行动会遇阻碍。应耐心等待、积蓄实力。"
       },
       {
         "number": 2,
@@ -25,25 +25,25 @@
         "vernacular": "龙出现在田野之上，有利于拜见德高望重的大人物。此时已从潜伏中崭露头角，才华初显，宜寻求贤者指导。",
         "xiao_xiang": "见龙在田，德施普也。",
         "xiao_xiang_vernacular": "龙出现在田野，意味着德行开始普施于众。",
-        "changing_meaning": "若此爻变动，表示你正处于展现才华的阶段，适合寻找贵人相助。此时应主动展示自己的能力，寻求有经验者的指导和提携。"
+        "changing_meaning": "若此爻变动，正处于展现才华的阶段，适合寻找贵人相助。应主动展示能力，寻求有经验者的指导提携。"
       },
       {
         "number": 3,
         "name": "九三",
         "text": "君子终日乾乾，夕惕若厉，无咎。",
-        "vernacular": "君子整天勤奋不懈，到了晚上也保持警惕，如同面临危险一般，这样就不会有过失。此爻处于下卦之终，位置不上不下，需要格外谨慎。",
+        "vernacular": "君子整天勤奋不懈，晚上也保持警惕，如同面临危险一般，这样就不会有过失。此爻处于下卦之终，位置不上不下，需格外谨慎。",
         "xiao_xiang": "终日乾乾，反复道也。",
         "xiao_xiang_vernacular": "整日勤奋不怠，是在反复践行天道。",
-        "changing_meaning": "若此爻变动，提醒你要格外勤奋和谨慎。处于上升期的关键阶段，白天努力工作，晚上也要反思警惕。虽辛苦，但坚持下去不会有大的过失。"
+        "changing_meaning": "若此爻变动，提醒要格外勤奋谨慎。处于上升关键期，白天努力工作，夜晚反思警惕。虽辛苦，但坚持下去不会有大的过失。"
       },
       {
         "number": 4,
         "name": "九四",
         "text": "或跃在渊，无咎。",
-        "vernacular": "龙或许跃出深渊，或许留在渊中，无论如何都没有过失。此爻处于上卦之初，面临重大抉择，进可跃升，退可守渊，都是合理的选择。",
+        "vernacular": "龙或许跃出深渊，或许留在渊中，无论如何都没有过失。此爻处于上卦之初，面临重大抉择，进可跃升，退可守渊，都是合理选择。",
         "xiao_xiang": "或跃在渊，进无咎也。",
-        "xiao_xiang_vernacular": "或跃出或留在深渊，只要前进就没有过失。",
-        "changing_meaning": "若此爻变动，表示你正面临一个关键的选择时刻。不管选择前进还是暂退，只要审时度势、慎重决定，都不会有大的问题。这是一个可以尝试突破的时机。"
+        "xiao_xiang_vernacular": "或跃出或留渊，只要前进就没有过失。",
+        "changing_meaning": "若此爻变动，正面临关键选择时刻。不管选择前进还是暂退，只要审时度势、慎重决定，都不会有大问题。这是可尝试突破的时机。"
       },
       {
         "number": 5,
@@ -52,7 +52,7 @@
         "vernacular": "龙飞翔在天空之中，有利于遇见大人物。这是乾卦最好的爻位，飞龙在天，居于至尊中正之位，事业达到顶峰，德才兼备，大展宏图。",
         "xiao_xiang": "飞龙在天，大人造也。",
         "xiao_xiang_vernacular": "飞龙在天，是大人物大有作为之时。",
-        "changing_meaning": "若此爻变动，是大吉之兆。你正处于最好的位置和时机，才华得以充分施展。此时宜大胆作为，同时保持中正之心，德位相配才能长久。"
+        "changing_meaning": "若此爻变动，是大吉之兆。正处于最好的位置和时机，才华得以充分施展。宜大胆作为，同时保持中正之心，德位相配才能长久。"
       },
       {
         "number": 6,
@@ -60,8 +60,8 @@
         "text": "亢龙有悔。",
         "vernacular": "龙飞得太高了，就会有悔恨。此爻处于卦的顶点，阳刚过盛，物极必反。提醒人们在高处要知进退，不可一味逞强，否则将有悔恨之事。",
         "xiao_xiang": "亢龙有悔，盈不可久也。",
-        "xiao_xiang_vernacular": "龙飞得太高而有悔，是因为盈满的状态不可能长久维持。",
-        "changing_meaning": "若此爻变动，是一个重要的警示。你可能过于高调或强势，已经走到了顶点。此时宜急流勇退，知足不辱。如果继续逞强冒进，必然会有后悔之事发生。"
+        "xiao_xiang_vernacular": "龙飞太高而有悔，因为盈满状态不可能长久维持。",
+        "changing_meaning": "若此爻变动，是重要警示。可能过于高调或强势，已走到顶点。宜急流勇退，知足不辱。继续逞强冒进必然有后悔之事。"
       }
     ]
   },
@@ -69,9 +69,9 @@
     "id": 2,
     "shallow_interpretation": "坤卦六爻皆阴，是纯粹的柔顺之卦。得此卦，提醒你以柔克刚、顺势而为才是上策。现在不宜强行出头，而是应该像大地一样承载、包容、耐心等待。在事业上，适合配合他人、做好基础工作；在感情上，温柔体贴比强势表白更有效；在健康上，注意保养、不宜过度劳累。坤卦的精髓是'厚德载物'——用深厚的德行去承载一切，终获吉祥。",
     "judgment": "坤，元亨，利牝马之贞。君子有攸往，先迷后得主，利。西南得朋，东北丧朋。安贞吉。",
-    "judgment_vernacular": "坤卦，元始亨通，利于像母马那样守持正固。君子有所前往，起初可能会迷失方向，但后来会找到正确的引导，这是有利的。往西南方能得到朋友，往东北方则会失去朋友。安守正固则吉祥。",
-    "tuan_zhuan": "至哉坤元，万物资生，乃顺承天。坤厚载物，德合无疆。含弘光大，品物咸亨。牝马地类，行地无疆，柔顺利贞。君子攸行，先迷失道，后顺得常。西南得朋，乃与类行；东北丧朋，乃终有庆。安贞之吉，应地无疆。",
-    "tuan_zhuan_vernacular": "至为伟大的坤元啊！万物依赖它而生长，它柔顺地承载着天道。坤德深厚，承载万物，其德行广阔无边。它包容广大，使万物都得以亨通。母马属于地类，在大地上行走没有界限，柔顺而利于守正。君子有所行动，起初迷失是因为还不熟悉道路，后来顺应就能找到常道。西南得朋，是与同类同行；东北丧朋，但最终会有喜庆之事。安守正固的吉祥，应和了大地无边的德行。",
+    "judgment_vernacular": "坤卦，元始亨通，利于像母马那样守持正固。君子有所前往，起初可能迷失方向，但后来会找到正确引导，这是有利的。往西南方得朋友，往东北方失朋友。安守正固则吉祥。",
+    "tuan_zhuan": "至哉坤元，万物资生，乃顺承天。坤厚载物，德合无疆。含弘光大，品物咸亨。牝马地类，行地无疆，柔顺利贞。君子攸行，先迷失道，后顺得常。",
+    "tuan_zhuan_vernacular": "至为伟大的坤元！万物依赖它而生长，它柔顺地承载着天道。坤德深厚承载万物，德行广阔无边。它包容广大，使万物都得以亨通。母马属于地类，在大地上行走没有界限，柔顺而利于守正。",
     "xiang_zhuan": "地势坤，君子以厚德载物。",
     "xiang_zhuan_vernacular": "大地的形势是柔顺宽厚的，君子应当效法大地，以深厚的德行承载和包容万物。",
     "lines": [
@@ -79,28 +79,28 @@
         "number": 1,
         "name": "初六",
         "text": "履霜，坚冰至。",
-        "vernacular": "踩到霜，就知道坚硬的冰层快要到来了。此爻为阴气初生，提醒人们见微知著——从细小的征兆中预见事物发展的趋势。霜是冰冻的前兆，小事不防将成大患。",
+        "vernacular": "踩到霜，就知道坚硬的冰层快要到了。此爻阴气初生，提醒见微知著——从细小征兆预见事物发展趋势。霜是冰冻前兆，小事不防将成大事。",
         "xiao_xiang": "履霜坚冰，阴始凝也。驯致其道，至坚冰也。",
-        "xiao_xiang_vernacular": "踩霜而知坚冰将至，是因为阴气已经开始凝结。顺着这个趋势发展下去，就会到达坚冰的状态。",
-        "changing_meaning": "若此爻变动，提醒你要有预见性。从当前微小的迹象中看到未来的发展趋势。如果是好的趋势就顺应它，如果是不好的趋势就要及早防范。见微知著，防患未然。"
+        "xiao_xiang_vernacular": "踩霜而知坚冰将至，因阴气已开始凝结。顺此趋势发展就会到达坚冰状态。",
+        "changing_meaning": "若此爻变动，提醒要有预见性。从当前微小迹象看到未来趋势。好趋势则顺应，坏趋势及早防范。见微知著，防患未然。"
       },
       {
         "number": 2,
         "name": "六二",
         "text": "直、方、大，不习无不利。",
-        "vernacular": "正直、端方、广大，即使不刻意学习也不会有什么不利。此爻柔居中正，是坤卦中最美善的爻位，具备了大地正直、端方、广大的品德，一切自然而然。",
+        "vernacular": "正直、端方、广大，即使不刻意学习也不会有什么不利。此爻柔居中正，是坤卦最美善的爻位，具备大地正直、端方、广大的品德，一切自然而然。",
         "xiao_xiang": "六二之动，直以方也。不习无不利，地道光也。",
-        "xiao_xiang_vernacular": "六二爻的行动，正直而且端方。不学习也不会有不利，是因为地道自然光辉。",
-        "changing_meaning": "若此爻变动，非常吉利。即使不需要特别的技巧和手段，只要保持内心的正直、行为的端方、胸怀的广大，一切都会顺利。这是自然而然、水到渠成的状态。"
+        "xiao_xiang_vernacular": "六二爻的行动正直而且端方。不学习也不会有不利，因为地道自然光辉。",
+        "changing_meaning": "若此爻变动，非常吉利。即使不需要特别的技巧和手段，只要保持内心正直、行为端方、胸怀广大，一切都会顺利。这是自然而然水到渠成的状态。"
       },
       {
         "number": 3,
         "name": "六三",
         "text": "含章可贞，或从王事，无成有终。",
-        "vernacular": "内含文采美德，可以守持正固。如果辅佐君王做事，不以自己的名义成就事业，但最终会有好的结果。此爻提醒要含蓄内敛，将功劳归于他人。",
+        "vernacular": "内含文采美德，可以守持正固。如果辅佐君王做事，不以自己名义成就事业，但最终会有好结果。此爻提醒要含蓄内敛，将功劳归于他人。",
         "xiao_xiang": "含章可贞，以时发也。或从王事，知光大也。",
-        "xiao_xiang_vernacular": "内含文采而守正，等待时机而发挥。辅佐君王做事，是因为智慧广大。",
-        "changing_meaning": "若此爻变动，提醒你要有才华但不必急于表现。在合适的时机展现自己的才能，为大局服务。不居功自傲，把功劳归于团队和领导，最终反而会得到更好的结果。"
+        "xiao_xiang_vernacular": "内含文采而守正，等待时机而发挥。辅佐君王做事，因为智慧广大。",
+        "changing_meaning": "若此爻变动，提醒要有才华但不必急于表现。在合适时机展现才能，为大局服务。不居功自傲，最终反得更好结果。"
       },
       {
         "number": 4,
@@ -108,8 +108,8 @@
         "text": "括囊，无咎无誉。",
         "vernacular": "像扎紧口袋一样缄默不语，就不会有过失，但也不会有赞誉。此爻处于上卦之初，位置微妙，最宜谨慎收敛，少说多做。",
         "xiao_xiang": "括囊无咎，慎不害也。",
-        "xiao_xiang_vernacular": "扎紧口袋而免于过失，是因为谨慎就不会受害。",
-        "changing_meaning": "若此爻变动，建议你非常谨慎。在敏感的时期或环境中，最好的策略是'扎紧口袋'——闭上嘴巴，不做引人注目的事。虽然没有赞誉，但也没有灾难。平安是福。"
+        "xiao_xiang_vernacular": "扎紧口袋而免于过失，因为谨慎就不会受害。",
+        "changing_meaning": "若此爻变动，建议非常谨慎。在敏感时期或环境，最好策略是闭上嘴巴，不做引人注目的事。虽无赞誉，但也没有灾难。"
       },
       {
         "number": 5,
@@ -118,16 +118,4048 @@
         "vernacular": "穿着黄色的下裳，大吉大利。黄色是中央之色，裳是下衣。此爻柔居尊位，以柔顺中正之德处于高位，是最为吉祥的象征。",
         "xiao_xiang": "黄裳元吉，文在中也。",
         "xiao_xiang_vernacular": "黄裳大吉，是因为美好的文采德性居于中正之位。",
-        "changing_meaning": "若此爻变动，非常吉利。你身处高位却能保持谦逊柔和的品德，如同一国之君穿着象征土地的黄色下裳。这种不张扬却能影响深远的力量，会带来最大的吉祥。"
+        "changing_meaning": "若此爻变动，非常吉利。身处高位却能保持谦逊柔和，如国君穿着象征土地的黄色下裳。不张扬却能影响深远，带来最大吉祥。"
       },
       {
         "number": 6,
         "name": "上六",
         "text": "龙战于野，其血玄黄。",
-        "vernacular": "龙在旷野中搏斗，流出青黄色的血。此爻阴气达到极点，与阳气发生激烈冲突，两败俱伤。提醒人们阴极必反，柔极则争，不可走向极端。",
+        "vernacular": "龙在旷野中搏斗，流出青黄色的血。此爻阴气极点，与阳气发生激烈冲突，两败俱伤。提醒阴极必反，柔极则争，不可走向极端。",
         "xiao_xiang": "龙战于野，其道穷也。",
-        "xiao_xiang_vernacular": "龙在旷野搏斗，是因为阴柔之道已经走到了尽头。",
-        "changing_meaning": "若此爻变动，是重要的警示。阴柔过度就会走向反面，引发激烈冲突。你应当避免走到极端——太过退让反而会引发问题。适可而止，保持中道，不要让自己陷入'阴阳交战'的困境。"
+        "xiao_xiang_vernacular": "龙在旷野搏斗，因阴柔之道已到尽头。",
+        "changing_meaning": "若此爻变动，是重要警示。阴柔过度就会走向反面，引发激烈冲突。应避免走到极端——太过退让反引发问题。保持中道。"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "shallow_interpretation": "屯卦象征万物初生时的艰难。得此卦，说明你正处于事业或生活的起始阶段，万事开头难，但只要坚持下去，前景是光明的。此时最重要的不是急于求成，而是像初生之芽，在土中扎根。保持耐心和信心，一步一个脚印。适合建立基础、积蓄力量。若问事业：创业初期困难多但方向正确；若问感情：关系刚刚建立，需要时间培养。",
+    "judgment": "屯，元亨利贞。勿用有攸往，利建侯。",
+    "judgment_vernacular": "屯卦，元始亨通，利于守正。不适合贸然远行，利于建立根据地。初创阶段不宜扩张，应先稳固根基。",
+    "xiang_zhuan": "云雷屯，君子以经纶。",
+    "xiang_zhuan_vernacular": "云在雷上，天地初创，万物始生。君子观此卦象，当以经纬天下的胸襟来经营世务。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "磐桓，利居贞，利建侯。",
+        "vernacular": "徘徊不前，利于安居守正，利于建立根据地。初爻阳刚在下，虽有才华但要稳扎稳打。",
+        "xiao_xiang": "虽磐桓，志行正也。以贵下贱，大得民也。",
+        "xiao_xiang_vernacular": "虽徘徊不前，但志向和行为都是端正的。以高贵身份下居卑位，大得民心。",
+        "changing_meaning": "若此爻变动，提醒创业初期不要急于冒进。先稳住基本盘，打好根基，积累人脉和资源。"
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "屯如邅如，乘马班如。匪寇婚媾，女子贞不字，十年乃字。",
+        "vernacular": "困顿徘徊，骑的马也在盘旋不前。来者不是盗寇而是求婚者，女子守正不嫁，十年后才出嫁。表面是阻碍，实则是好事，需要耐心等待。",
+        "xiao_xiang": "六二之难，乘刚也。十年乃字，反常也。",
+        "xiao_xiang_vernacular": "六二的困难在于凌驾在阳刚之上。十年后才婚嫁，是反常之事。",
+        "changing_meaning": "若此爻变动，当前看似阻碍的事情，长远看反而是好事。不要急于一时，耐心等待合适的时机。"
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "即鹿无虞，惟入于林中，君子几不如舍，往吝。",
+        "vernacular": "追鹿没有虞人引导，只会迷入山林。君子见机行事，不如舍弃，继续前往会有遗憾。没有向导不可贸然行动。",
+        "xiao_xiang": "即鹿无虞，以从禽也。君子舍之，往吝穷也。",
+        "xiao_xiang_vernacular": "追鹿无向导，是因为贪图猎物。君子舍之，继续前往就会陷入困境。",
+        "changing_meaning": "若此爻变动，警示不可在没有指导的情况下盲目行事。如果缺乏经验或指导，宁可暂时放弃，等待条件成熟。"
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "乘马班如，求婚媾，往吉，无不利。",
+        "vernacular": "骑马盘旋，前往求婚，前去吉祥，没有什么不利。此爻进入上卦，处境好转，适合主动出击。",
+        "xiao_xiang": "求而往，明也。",
+        "xiao_xiang_vernacular": "有明确目标而去，是明智的选择。",
+        "changing_meaning": "若此爻变动，处境开始转好，可以主动采取行动了。目标和方向清晰，大胆前行。"
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "屯其膏，小贞吉，大贞凶。",
+        "vernacular": "屯积恩泽布施于众，小事守正吉祥，大事守正凶险。此爻居尊位，宜广施恩泽，但行事要循序渐进，不可贪大求全。",
+        "xiao_xiang": "屯其膏，施未光也。",
+        "xiao_xiang_vernacular": "屯积膏泽，布施还不够广远。",
+        "changing_meaning": "若此爻变动，虽处在有利位置，但力量和资源还不足以做大事业。从小事做起，逐步积累。"
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "乘马班如，泣血涟如。",
+        "vernacular": "骑马盘旋不前，哭得血泪涟涟。此爻处于屯卦之终，困境到了极致，内心痛苦不安。",
+        "xiao_xiang": "泣血涟如，何可长也。",
+        "xiao_xiang_vernacular": "哭得血泪涟涟，这种状态怎么能长久呢？",
+        "changing_meaning": "若此爻变动，提醒当前的困境和痛苦不会永远持续。物极必反，坚持住，转机就在前方。"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "shallow_interpretation": "蒙卦象征蒙昧初开、启蒙教育。得此卦，意味着学习、教育、启蒙成为当前主题。你或许是学习者，需要虚心求教；也或许是教导者，需要耐心引导他人。不论哪种角色，启蒙的核心在于启发而非灌输。如同小孩初识字，需要好的老师引导，也需要自己的主动性。在教育、培训、学习方面的运势好。",
+    "judgment": "蒙，亨。匪我求童蒙，童蒙求我。初筮告，再三渎，渎则不告。利贞。",
+    "judgment_vernacular": "蒙卦，亨通。不是我去求蒙昧的幼童，而是幼童来求教于我。初次占问就告诉他，再三占问便是亵渎，亵渎就不再告知。利于守正。",
+    "xiang_zhuan": "山下出泉，蒙。君子以果行育德。",
+    "xiang_zhuan_vernacular": "山下流出泉水，这是蒙卦的象征。君子观此，应以果决的行动来培育德行。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "发蒙，利用刑人，用说桎梏，以往吝。",
+        "vernacular": "启发蒙昧，利于树立典型规范，用以解脱桎梏，急于前往会有遗憾。启蒙需要立规矩，但要适度。",
+        "xiao_xiang": "利用刑人，以正法也。",
+        "xiao_xiang_vernacular": "利用典型规范，是为了端正法度。",
+        "changing_meaning": "若此爻变动，在启蒙阶段需要建立规范和纪律。通过规则来引导、启发，但不宜过度使用惩罚。"
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "包蒙，吉。纳妇，吉。子克家。",
+        "vernacular": "包容蒙昧，吉祥。迎娶妻子，吉祥。儿子能够持家。此爻阳刚居中，有包容心，能以宽厚态度对待蒙昧之人。",
+        "xiao_xiang": "子克家，刚柔接也。",
+        "xiao_xiang_vernacular": "儿子能够持家，是因为刚柔相接配合得当。",
+        "changing_meaning": "若此爻变动，应以包容之心对待他人之不成熟。家庭和事业都会顺利，后辈能够成长接班。"
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "勿用取女，见金夫，不有躬，无攸利。",
+        "vernacular": "不要娶这个女子，她见到有钱男子就不顾自身，没有什么利益。此爻警示不可被外在财物蒙蔽心智。",
+        "xiao_xiang": "勿用取女，行不顺也。",
+        "xiao_xiang_vernacular": "不要娶此女，因为她的行为不合正道。",
+        "changing_meaning": "若此爻变动，警示不要被表面的利益诱惑。在学习或选择上，要坚守原则，不为外物所动。"
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "困蒙，吝。",
+        "vernacular": "困于蒙昧之中，有遗憾。此爻处于上下两个阴爻之间，孤立无援，启蒙最为困难。",
+        "xiao_xiang": "困蒙之吝，独远实也。",
+        "xiao_xiang_vernacular": "困于蒙昧的遗憾，是因为独自远离实际。",
+        "changing_meaning": "若此爻变动，感到学习或成长中孤立无援。需要主动寻找导师或学习机会，不可闭门造车。"
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "童蒙，吉。",
+        "vernacular": "如孩童般纯真无知的蒙昧，吉祥。此爻柔居尊位，能保持赤子之心求教于人，所以吉祥。",
+        "xiao_xiang": "童蒙之吉，顺以巽也。",
+        "xiao_xiang_vernacular": "童蒙的吉祥，在于顺从而谦逊。",
+        "changing_meaning": "若此爻变动，保持谦逊好学的态度非常有利。像孩童一样虚心求教，反而能得到最好的结果。"
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "击蒙，不利为寇，利御寇。",
+        "vernacular": "打击蒙昧，不宜主动出击成为侵略者，而宜防御外来的侵扰。启蒙到了最后阶段，需要用强硬手段纠正，但要把握分寸。",
+        "xiao_xiang": "利用御寇，上下顺也。",
+        "xiao_xiang_vernacular": "利于防御外侵，是因为上下都顺遂配合。",
+        "changing_meaning": "若此爻变动，纠正错误需要有力度，但注意方式方法。宜防御式纠正，不宜攻击式惩罚。"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "shallow_interpretation": "需卦象征等待、需求。云在天上，雨将降而未降，需要耐心等待。得此卦，说明当前时机尚未完全成熟，不可急躁冒进。如同农夫等待雨水播种，不是不行动，而是在等待中做好准备。凡事需要过程，欲速则不达。饮食宴乐，以平常心应对眼前的等待期即是智慧。",
+    "judgment": "需，有孚，光亨，贞吉，利涉大川。",
+    "judgment_vernacular": "需卦，心怀诚信，光明亨通，守正吉祥，利于渡过大河。等待不是消极，而是以诚信和光明态度面对，最终能渡过难关。",
+    "xiang_zhuan": "云上于天，需。君子以饮食宴乐。",
+    "xiang_zhuan_vernacular": "云在天上未成雨，这是需卦的象征。君子观此卦象，在等待时仍保持从容，以饮食宴乐养精蓄锐。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "需于郊，利用恒，无咎。",
+        "vernacular": "在郊外等待，利于坚守恒心，没有过失。在远离中心的边界等待，只要保持恒心就无咎。",
+        "changing_meaning": "若此爻变动，需要较长时间的等待，远离核心是非，保持耐心恒心就不会有问题。"
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "需于沙，小有言，终吉。",
+        "vernacular": "在沙上等待，会有一些闲言碎语，但最终吉祥。离风险近了一点，会有些口舌是非，但不影响大局。",
+        "changing_meaning": "若此爻变动，在等待过程中可能遇到一些闲话或小麻烦，耐住性子，最终结果是好的。"
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "需于泥，致寇至。",
+        "vernacular": "在泥泞中等待，招致盗寇前来。身处险境却迟迟不行动，反而会引来真正的危险。",
+        "changing_meaning": "若此爻变动，警示等待太久或处境危险时还不动，可能招来更大麻烦。该行动时就要行动。"
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "需于血，出自穴。",
+        "vernacular": "在血泊中等待，从洞穴中走出。已经进入危险境地，必须主动脱身。",
+        "changing_meaning": "若此爻变动，已身处困境中，不能再等了，必须积极想办法摆脱危险。"
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "需于酒食，贞吉。",
+        "vernacular": "在酒食宴饮中等待，守正则吉。以从容姿态面对等待，安守中道，自得其乐。",
+        "changing_meaning": "若此爻变动，最好的等待方式是保持从容心态，该吃吃该喝喝，守住正道就是吉祥。"
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "入于穴，有不速之客三人来，敬之终吉。",
+        "vernacular": "落入洞穴之中，有三位不速之客前来，恭敬对待他们，最终吉祥。困境中会有意想不到的人来帮你，以尊敬态度对待。",
+        "changing_meaning": "若此爻变动，看似陷入绝境，但会有意想不到的援助出现。保持谦逊和尊重的态度，转危为安。"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "shallow_interpretation": "讼卦象征争讼、纠纷。天与水相悖而行，各执一端。得此卦，提醒你可能有口舌之争或法律纠纷。出现矛盾时，宜以和为贵，见好就收。争执到底只会两败俱伤。即使有理也不要得理不饶人，退一步海阔天空。诉讼之事，中途妥协比坚持到底更有利。",
+    "judgment": "讼，有孚窒惕，中吉，终凶。利见大人，不利涉大川。",
+    "judgment_vernacular": "讼卦，诚信被阻塞而需警惕，中途停止则吉，争讼到底则凶。利于求见公正的大人物裁断，不利于冒险渡大川。",
+    "xiang_zhuan": "天与水违行，讼。君子以作事谋始。",
+    "xiang_zhuan_vernacular": "天向上水向下，方向相违，这是争讼之象。君子观此，在做事的开始就要周密谋划，防止纠纷发生。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "不永所事，小有言，终吉。",
+        "vernacular": "不把争执之事拖得太久，虽有些口舌，最终吉祥。争讼之初，及时收手便不会酿成大事。",
+        "changing_meaning": "若此爻变动，刚刚开始的争论不宜继续，适可而止就会化解，最终是吉利的。"
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "不克讼，归而逋，其邑人三百户，无眚。",
+        "vernacular": "争讼不胜，回来之后逃走了，他的三百户邑人没有受到牵连之灾。争不过就退，保全大家。",
+        "changing_meaning": "若此爻变动，明知争不过就果断撤退，保全自己和周围人。退一步保全大局。"
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "食旧德，贞厉，终吉。或从王事，无成。",
+        "vernacular": "依靠祖先旧德过活，守正有危厉但最终吉祥。如果参与王事，不会成功。不宜卷入是非，安守本分。",
+        "changing_meaning": "若此爻变动，保持低调守好本分最为安全。不要卷入他人的争端或大事，做好自己的事。"
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "不克讼，复即命，渝安贞，吉。",
+        "vernacular": "争讼不胜，回来服从天命，改变态度安于守正，吉祥。争不赢就收手回归正道。",
+        "changing_meaning": "若此爻变动，发现争论不会赢就应及时回头，改变强硬态度，回归正轨。"
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "讼，元吉。",
+        "vernacular": "裁决争讼，大吉大利。此爻阳刚中正在君位，是最公正的裁决者，能以中正之心化解纠纷。",
+        "changing_meaning": "若此爻变动，遇到公正的人来裁决是非，结果会是公平的。如果自己是裁决者，宜保持中正。"
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "或锡之鞶带，终朝三褫之。",
+        "vernacular": "或许被赏赐鞶带（官服饰带），但一天之内三次被剥夺。争讼即使赢了得到的荣誉也不会持久。",
+        "changing_meaning": "若此爻变动，即使争论赢了得到的东西也不长久。赢了一时，失去更快。不如不争。"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "shallow_interpretation": "师卦象征军队、统率。地下有水，蓄众如蓄水。得此卦，或许需要带领团队，或被他人领导。领导者的责任是'师出有名'——行动要有正当理由，纪律严明。作为下属则要服从有德行的领导。在团队合作、组织管理方面，此卦提醒以正道引领众人。",
+    "judgment": "师，贞，丈人吉，无咎。",
+    "judgment_vernacular": "师卦，守持正固，年长有德之人吉祥，没有过失。率众出征必须名正言顺，由德高望重者统领方可成功。",
+    "xiang_zhuan": "地中有水，师。君子以容民畜众。",
+    "xiang_zhuan_vernacular": "地中有水，这是师卦的象征。君子效法此象，包容民众蓄养众人。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "师出以律，否臧凶。",
+        "vernacular": "军队出动要有纪律，失去纪律则凶险。带团队首要的是立规矩，规矩坏了再好的团队也会失败。",
+        "changing_meaning": "若此爻变动，开始新的团队或项目时，首先要建立明确的规则和纪律，否则会出问题。"
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "在师中，吉，无咎。王三锡命。",
+        "vernacular": "在军队中处于中位，吉祥无咎。君王三次赐予任命。得君王信任，居中统率，是最佳状态。",
+        "changing_meaning": "若此爻变动，在团队中处于核心位置，获得上层多次认可和授权。坚守中道则会顺利。"
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "师或舆尸，凶。",
+        "vernacular": "军队或许用车载着尸体回来，凶险。如果指挥不当、决策失误，就会导致惨败。",
+        "changing_meaning": "若此爻变动，警示如果领导不善或决策错误，会导致重大损失。不可刚愎自用。"
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "师左次，无咎。",
+        "vernacular": "军队暂且撤退驻扎，没有过失。根据形势主动撤退是明智的，不硬拼就不会受损。",
+        "changing_meaning": "若此爻变动，暂时撤退或休整是合理的选择，不必硬撑。保存实力以待时机。"
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "田有禽，利执言，无咎。长子帅师，弟子舆尸，贞凶。",
+        "vernacular": "田里有禽兽，利于表达意见，没有过失。长子统率军队，幼子就会用车载尸，即使守正也凶险。要用有经验的人，不可用人不当。",
+        "changing_meaning": "若此爻变动，重点在于用人要得当。选择有德行、有经验的领导者非常重要，用错人会带来灾难。"
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "大君有命，开国承家，小人勿用。",
+        "vernacular": "君王论功行赏，建国封侯，但不可任用小人。成功后封赏功臣时要警惕，不可让品德不好的人掌权。",
+        "changing_meaning": "若此爻变动，成功后论功行赏阶段。重用有德之人，远离小人。这是长治久安的关键。"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "shallow_interpretation": "比卦象征亲附、团结。水在地上，亲比无间。得此卦，人际关系成为当前主题。宜与人合作，亲近贤德之人。但需要审慎择友——亲君子远小人。寻找志同道合的伙伴，建立起互助互信的关系网络。团队合作比单打独斗更加有利。",
+    "judgment": "比，吉。原筮，元永贞，无咎。不宁方来，后夫凶。",
+    "judgment_vernacular": "比卦，吉祥。推究占筮，从开始就永久守正，没有过失。不安宁的方国也来归附，迟疑不来的人则有凶险。",
+    "xiang_zhuan": "地上有水，比。先王以建万国，亲诸侯。",
+    "xiang_zhuan_vernacular": "地上有水浸润，这是比卦的象征。先王效法此象，建立万国，亲近诸侯。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "有孚比之，无咎。有孚盈缶，终来有它，吉。",
+        "vernacular": "以诚信去亲附他人，没有过失。诚信如同装满的瓦罐，最终会有意想不到的好事到来，吉祥。",
+        "changing_meaning": "若此爻变动，以真诚的心去建立关系最为重要。诚信满满，自然会吸引好的缘分。"
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "比之自内，贞吉。",
+        "vernacular": "从内心真诚地去亲附，守正则吉。发自内心的团结才有意义，不是被迫或虚伪的亲近。",
+        "changing_meaning": "若此爻变动，亲近他人要发自内心，而非表面应付。真诚的关系才能持久。"
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "比之匪人。",
+        "vernacular": "亲附的却不是正人君子。所结交的如果是不正派的人，会有问题。",
+        "changing_meaning": "若此爻变动，警示要审视身边亲近的人。如果亲附了不该亲近的人，需要及时抽身。"
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "外比之，贞吉。",
+        "vernacular": "向外亲附贤德之人，守正则吉。以谦虚的态度去亲近比自己高明的人。",
+        "changing_meaning": "若此爻变动，适合主动去结交比自己优秀的人，向外寻求更好的合作和发展。"
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "显比，王用三驱，失前禽，邑人不诫，吉。",
+        "vernacular": "彰显亲附之道，君王田猎三面驱赶网开一面，失去了前方逃走的禽兽，邑人也不戒备，吉祥。亲附他人要网开一面，留有余地，不强求。",
+        "changing_meaning": "若此爻变动，这是最好的亲附方式——光明磊落、不强求。给人空间和自由，反而能赢得人心。"
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "比之无首，凶。",
+        "vernacular": "想要亲附却没有合适的首领，凶险。无人引领方向，团结也就无从谈起。",
+        "changing_meaning": "若此爻变动，想与人合作但缺乏明确的领导者或方向。应该先确定领头人和方向再做行动。"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "shallow_interpretation": "",
+    "judgment": "小畜，亨。密云不雨，自我西郊。",
+    "judgment_vernacular": "小畜卦，亨通。浓云密布却不下雨，来自我方西郊。积蓄尚不足，力量在积聚中。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "风行天上，小畜。君子以懿文德。",
+    "xiang_zhuan_vernacular": "风在天上吹，这是小畜的象征。君子应当修养美好的文采和德行。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "复自道，何其咎，吉。",
+        "vernacular": "回到自己的道路上，哪有什么过错？吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "牵复，吉。",
+        "vernacular": "被牵引着回归正道，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "舆说辐，夫妻反目。",
+        "vernacular": "车轮的辐条脱落，夫妻反目争吵。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "有孚，血去惕出，无咎。",
+        "vernacular": "心怀诚信，离开流血之地，脱离忧惧，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "有孚挛如，富以其邻。",
+        "vernacular": "诚信团结在一起，与邻居共享富裕。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "既雨既处，尚德载，妇贞厉，月几望，君子征凶。",
+        "vernacular": "已经下雨了，已经安居了，崇尚德行的承载。妇人守正也有危厉，月亮快要圆了，君子出征凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "shallow_interpretation": "",
+    "judgment": "履虎尾，不咥人，亨。",
+    "judgment_vernacular": "踩在老虎尾巴上，老虎却不咬人，亨通。小心谨慎行事，即使面对危险也能平安。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "上天下泽，履。君子以辨上下，定民志。",
+    "xiang_zhuan_vernacular": "天在上泽在下，这是履卦的象征。君子应分辨上下尊卑，安定民众心志。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "素履，往无咎。",
+        "vernacular": "以纯朴的态度践行，前往没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "履道坦坦，幽人贞吉。",
+        "vernacular": "行走的道路平坦宽阔，隐士守正则吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "眇能视，跛能履，履虎尾，咥人，凶。武人为于大君。",
+        "vernacular": "一只眼却硬要看，跛脚却硬要走，踩到虎尾会被咬，凶险。武夫做了君王。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "履虎尾，愬愬终吉。",
+        "vernacular": "踩在虎尾上，战战兢兢，最终吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "夬履，贞厉。",
+        "vernacular": "决断地行走，守正也有危厉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "视履考祥，其旋元吉。",
+        "vernacular": "观察走过的路，考察吉凶，回头则大吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "shallow_interpretation": "",
+    "judgment": "泰，小往大来，吉亨。",
+    "judgment_vernacular": "泰卦，小的去了大的来了，吉祥亨通。天地交融，万物通达的盛世景象。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "天地交，泰。后以财成天地之道，辅相天地之宜，以左右民。",
+    "xiang_zhuan_vernacular": "天地交融，这是泰卦的象征。君王据此裁成天地之道，辅助天地化育之功，引导百姓。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "拔茅茹，以其汇，征吉。",
+        "vernacular": "拔茅草时根系牵连一片，因为它们同类聚集。出征吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "包荒，用冯河，不遐遗，朋亡，得尚于中行。",
+        "vernacular": "包容广大，用徒步渡河，远方也不遗漏，朋友失去了，却在中行得到崇尚。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "无平不陂，无往不复，艰贞无咎。勿恤其孚，于食有福。",
+        "vernacular": "没有平坦不倾斜的，没有前往不回归的。艰难守正则无咎，不要担忧诚信，饮食有福。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "翩翩，不富以其邻，不戒以孚。",
+        "vernacular": "翩翩飞翔，不与邻居比富，以诚信待人而不戒备。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "帝乙归妹，以祉元吉。",
+        "vernacular": "帝乙嫁出妹妹，以此获得福祉，大吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "城复于隍，勿用师，自邑告命，贞吝。",
+        "vernacular": "城墙倒塌在壕沟里，不可出兵，在自己的城邑中宣告命令，守正也有遗憾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "shallow_interpretation": "",
+    "judgment": "否之匪人，不利君子贞，大往小来。",
+    "judgment_vernacular": "否卦，闭塞的不是正人君子。不利于君子守正，大的去了小的来了。天地不交，万物不通。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "天地不交，否。君子以俭德辟难，不可荣以禄。",
+    "xiang_zhuan_vernacular": "天地不相交融，这是否卦的象征。君子应以节俭的德行避难，不可以荣耀和利禄行事。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "拔茅茹，以其汇，贞吉亨。",
+        "vernacular": "拔茅草时根系牵连一片，因为同类聚集。守正则吉亨。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "包承，小人吉，大人否亨。",
+        "vernacular": "包容奉承，小人吉祥，大人闭塞而后亨通。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "包羞。",
+        "vernacular": "含羞忍辱，包容羞耻。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "有命无咎，畴离祉。",
+        "vernacular": "有天命在身，没有过失，同类也将获得福祉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "休否，大人吉。其亡其亡，系于苞桑。",
+        "vernacular": "终止闭塞，大人吉祥。危险啊危险！命运系在苞桑根上。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "倾否，先否后喜。",
+        "vernacular": "倾覆闭塞，先有闭塞不通，后有喜悦。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "shallow_interpretation": "",
+    "judgment": "同人于野，亨。利涉大川，利君子贞。",
+    "judgment_vernacular": "在旷野中与人和同，亨通。利于渡过大川，利于君子守正。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "天与火，同人。君子以类族辨物。",
+    "xiang_zhuan_vernacular": "天与火相合，这是同人的象征。君子应以类族群分来辨别事物。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "同人于门，无咎。",
+        "vernacular": "在门口与人和同，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "同人于宗，吝。",
+        "vernacular": "只在宗族内与人和同，有遗憾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "伏戎于莽，升其高陵，三岁不兴。",
+        "vernacular": "把军队藏在草莽中，登上高山瞭望，三年不敢兴兵。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "乘其墉，弗克攻，吉。",
+        "vernacular": "登上城墙，却不能攻克，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "同人先号咷而后笑，大师克相遇。",
+        "vernacular": "同人先痛哭后欢笑，大军终于相遇。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "同人于郊，无悔。",
+        "vernacular": "在郊外与人和同，没有悔恨。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "shallow_interpretation": "",
+    "judgment": "大有，元亨。",
+    "judgment_vernacular": "大有卦，大亨通。丰收、富有的鼎盛景象。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "火在天上，大有。君子以遏恶扬善，顺天休命。",
+    "xiang_zhuan_vernacular": "火在天上照耀，这是大有的象征。君子应遏制恶行弘扬善行，顺从天之美命。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "无交害，匪咎，艰则无咎。",
+        "vernacular": "没有交往的害处，不是过错，艰难守正则无咎。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "大车以载，有攸往，无咎。",
+        "vernacular": "用大车装载，有所前往，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "公用亨于天子，小人弗克。",
+        "vernacular": "公侯为天子所用而通达，小人则不能。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "匪其彭，无咎。",
+        "vernacular": "不炫耀其盛大，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "厥孚交如，威如，吉。",
+        "vernacular": "诚信相交，有威严，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "自天佑之，吉无不利。",
+        "vernacular": "来自上天的保佑，吉祥无所不利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "shallow_interpretation": "",
+    "judgment": "谦，亨，君子有终。",
+    "judgment_vernacular": "谦卦，亨通，君子会有好的结局。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "地中有山，谦。君子以裒多益寡，称物平施。",
+    "xiang_zhuan_vernacular": "地下有山，山高而自居地下，这是谦的象征。君子应取多补少，权衡事物公平施与。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "谦谦君子，用涉大川，吉。",
+        "vernacular": "谦而又谦的君子，可以用来渡过大川，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "鸣谦，贞吉。",
+        "vernacular": "声名远扬却保持谦虚，守正则吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "劳谦君子，有终吉。",
+        "vernacular": "勤劳而谦虚的君子，有好的结局，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "无不利，撝谦。",
+        "vernacular": "无所不利，发挥谦虚之德。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "不富以其邻，利用侵伐，无不利。",
+        "vernacular": "不以富裕去压邻居，利于出征征伐，无所不利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "鸣谦，利用行师，征邑国。",
+        "vernacular": "声名远扬而谦虚，利于出师征伐邑国。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "shallow_interpretation": "",
+    "judgment": "豫，利建侯行师。",
+    "judgment_vernacular": "豫卦，利于建立诸侯和出兵行师。和乐愉悦，顺势而动的时机。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "雷出地奋，豫。先王以作乐崇德，殷荐之上帝，以配祖考。",
+    "xiang_zhuan_vernacular": "雷从地上奋出，这是豫的象征。先王制作音乐崇尚德行，隆重地进献给上帝和祖先。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "鸣豫，凶。",
+        "vernacular": "宣扬享乐，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "介于石，不终日，贞吉。",
+        "vernacular": "如磐石般耿介，不用一整天，守正则吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "盱豫，悔，迟有悔。",
+        "vernacular": "以媚眼看人享乐，有悔，迟疑更有悔。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "由豫，大有得。勿疑，朋盍簪。",
+        "vernacular": "由于和乐，大有所得。不要疑心，朋友会聚集而来。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "贞疾，恒不死。",
+        "vernacular": "守正但也患病，但恒久不会死亡。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "冥豫，成有渝，无咎。",
+        "vernacular": "昏暗中享乐，事情完成了还有变化，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "shallow_interpretation": "",
+    "judgment": "随，元亨利贞，无咎。",
+    "judgment_vernacular": "随卦，元始亨通，利于守正，没有过失。天下随时而变，顺时而动则吉。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "泽中有雷，随。君子以向晦入宴息。",
+    "xiang_zhuan_vernacular": "泽中有雷，这是随卦的象征。君子在黄昏时就进入内室安歇，随时作息。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "官有渝，贞吉。出门交有功。",
+        "vernacular": "官职有变化，守正则吉。出门与人交往会有功效。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "系小子，失丈夫。",
+        "vernacular": "系住小孩，失去了大人。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "系丈夫，失小子。随有求得，利居贞。",
+        "vernacular": "系住大人，失去了小孩。随从而去有求必得，利于安居守正。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "随有获，贞凶。有孚在道，以明，何咎。",
+        "vernacular": "随从而有所收获，守正也有凶险。心怀诚信在正道上，以此明察，有何过失？",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "孚于嘉，吉。",
+        "vernacular": "诚信于美善，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "拘系之，乃从维之。王用亨于西山。",
+        "vernacular": "制约系缚它，又纵放维系它。君王在西山祭祀。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "shallow_interpretation": "",
+    "judgment": "蛊，元亨，利涉大川。先甲三日，后甲三日。",
+    "judgment_vernacular": "蛊卦，元始亨通，利于渡过大川。在辛日之前三日和之后三日。弊病之后必有大治。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "山下有风，蛊。君子以振民育德。",
+    "xiang_zhuan_vernacular": "山下有风，这是蛊卦的象征。君子应振奋民众养育德行。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "干父之蛊，有子，考无咎，厉终吉。",
+        "vernacular": "匡正父亲的弊病，有这样的儿子，先父没有过失，虽然危厉最终吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "干母之蛊，不可贞。",
+        "vernacular": "匡正母亲的弊病，不可太过刚正。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "干父之蛊，小有悔，无大咎。",
+        "vernacular": "匡正父亲的弊病，略有遗憾，没有大的过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "裕父之蛊，往见吝。",
+        "vernacular": "宽容父亲的弊病，前往会见到遗憾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "干父之蛊，用誉。",
+        "vernacular": "匡正父亲的弊病，以此获得声誉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "不事王侯，高尚其事。",
+        "vernacular": "不去事奉王侯，以高洁的心志做自己的事。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "shallow_interpretation": "",
+    "judgment": "临，元亨利贞。至于八月有凶。",
+    "judgment_vernacular": "临卦，元始亨通，利于守正。到了八月会有凶险。亲临督导的好运，但要防好运渐消。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "泽上有地，临。君子以教思无穷，容保民无疆。",
+    "xiang_zhuan_vernacular": "泽上有地，这是临卦的象征。君子以此教化思虑无穷，包容保护民众无疆。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "咸临，贞吉。",
+        "vernacular": "以感化之心临民，守正则吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "咸临，吉无不利。",
+        "vernacular": "以感化之心临民，吉祥无所不利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "甘临，无攸利。既忧之，无咎。",
+        "vernacular": "以甜言蜜语临民，没有好处。如果已经为此忧虑，反而没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "至临，无咎。",
+        "vernacular": "亲自到现场临近视察，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "知临，大君之宜，吉。",
+        "vernacular": "以智慧临民，这是大君应有的态度，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "敦临，吉无咎。",
+        "vernacular": "以敦厚的态度临民，吉祥没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "shallow_interpretation": "",
+    "judgment": "观，盥而不荐，有孚颙若。",
+    "judgment_vernacular": "观卦，洗手之后还没有献祭，心已充满诚信和严肃恭敬的样子。观察要抓住本质而非形式。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "风行地上，观。先王以省方，观民设教。",
+    "xiang_zhuan_vernacular": "风行地上，这是观卦的象征。先王巡视各地，观察民情设立教化。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "童观，小人无咎，君子吝。",
+        "vernacular": "像孩童般观看，小人没有过失，君子这样做则有遗憾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "窥观，利女贞。",
+        "vernacular": "从门缝中窥视看人，利于女子守正。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "观我生，进退。",
+        "vernacular": "观察我自己的所作所为，决定进退。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "观国之光，利用宾于王。",
+        "vernacular": "观察国家的光辉盛况，利于做君王的宾客。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "观我生，君子无咎。",
+        "vernacular": "观察我自己的所作所为，君子没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "观其生，君子无咎。",
+        "vernacular": "观察他人的所作所为，君子没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "shallow_interpretation": "",
+    "judgment": "噬嗑，亨。利用狱。",
+    "judgment_vernacular": "噬嗑卦，亨通。利于用刑断狱。咬合障碍，刚柔并济破除障碍。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "雷电噬嗑，先王以明罚敕法。",
+    "xiang_zhuan_vernacular": "雷电交加，这是噬嗑的象征。先王以此明察刑罚、整饬法律。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "屦校灭趾，无咎。",
+        "vernacular": "脚上带着刑具遮住了脚趾，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "噬肤灭鼻，无咎。",
+        "vernacular": "咬嚼皮肤伤及鼻子，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "噬腊肉，遇毒。小吝，无咎。",
+        "vernacular": "咬嚼腊肉，遇到毒害。稍有遗憾，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "噬干胏，得金矢。利艰贞，吉。",
+        "vernacular": "咬嚼带骨的干肉，得到金属箭头。利于艰难守正，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "噬干肉，得黄金。贞厉，无咎。",
+        "vernacular": "咬嚼干肉，得到黄金。守正有危厉，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "何校灭耳，凶。",
+        "vernacular": "肩上扛着刑具没过了耳朵，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "shallow_interpretation": "",
+    "judgment": "贲，亨。小利有攸往。",
+    "judgment_vernacular": "贲卦，亨通。出行则有小利。装饰文饰，注重外在形象但要返璞归真。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "山下有火，贲。君子以明庶政，无敢折狱。",
+    "xiang_zhuan_vernacular": "山下有火，这是贲卦的象征。君子以此明察各种政务，不敢轻易判断狱案。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "贲其趾，舍车而徒。",
+        "vernacular": "装饰他的脚趾，舍弃车子步行。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "贲其须。",
+        "vernacular": "装饰他的胡须。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "贲如濡如，永贞吉。",
+        "vernacular": "装饰得润泽光彩，永久守正则吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "贲如皤如，白马翰如，匪寇婚媾。",
+        "vernacular": "装饰素洁淡雅，白马奔驰而来，来者不是盗寇而是求婚者。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "贲于丘园，束帛戋戋，吝，终吉。",
+        "vernacular": "在丘园中装饰，一束束布帛堆积，有遗憾但最终吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "白贲，无咎。",
+        "vernacular": "以素白为装饰，返璞归真，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "shallow_interpretation": "",
+    "judgment": "剥，不利有攸往。",
+    "judgment_vernacular": "剥卦，不利于有所前往。剥落衰败之时，宜退守待时。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "山附于地，剥。上以厚下安宅。",
+    "xiang_zhuan_vernacular": "山附在大地上被剥蚀，这是剥卦的象征。居上者应以厚待下属来安固根基。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "剥床以足，蔑贞凶。",
+        "vernacular": "剥蚀床从床脚开始，蔑视守正则凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "剥床以辨，蔑贞凶。",
+        "vernacular": "剥蚀床从床板开始，蔑视守正则凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "剥之，无咎。",
+        "vernacular": "剥蚀它，但没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "剥床以肤，凶。",
+        "vernacular": "剥蚀床伤及人的皮肤，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "贯鱼，以宫人宠，无不利。",
+        "vernacular": "像贯穿成串的鱼一样排列有序，用宫中宠幸的方式对待，无所不利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "硕果不食，君子得舆，小人剥庐。",
+        "vernacular": "丰硕的果实不去享用，君子得到车马，小人被剥夺房屋。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "shallow_interpretation": "",
+    "judgment": "复，亨。出入无疾，朋来无咎。反复其道，七日来复，利有攸往。",
+    "judgment_vernacular": "复卦，亨通。出入没有疾病，朋友来了没有过失。循环往复，七天一个周期，利于有所前往。一阳复始，万象更新。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "雷在地中，复。先王以至日闭关，商旅不行，后不省方。",
+    "xiang_zhuan_vernacular": "雷在地中，这是复卦的象征。先王在冬至日关闭城门，商旅不外出，君主也不巡视地方。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "不远复，无祗悔，元吉。",
+        "vernacular": "走得不远就回头，没有大的悔恨，大吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "休复，吉。",
+        "vernacular": "美好地回复归来，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "频复，厉无咎。",
+        "vernacular": "频繁地反复，有危厉但没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "中行独复。",
+        "vernacular": "在中道行走，独自回复。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "敦复，无悔。",
+        "vernacular": "敦厚地回复，没有悔恨。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "迷复，凶，有灾眚。用行师，终有大败。",
+        "vernacular": "迷失了方向才回复，凶险，有灾祸。以此行军，最终有大败。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "shallow_interpretation": "",
+    "judgment": "无妄，元亨利贞。其匪正有眚，不利有攸往。",
+    "judgment_vernacular": "无妄卦，元始亨通，利于守正。如果不守正道就会有灾祸，不利于有所前往。不妄为，顺其自然。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "天下雷行，物与无妄。先王以茂对时，育万物。",
+    "xiang_zhuan_vernacular": "天下有雷在运行，万物都处于不妄为的状态。先王以此盛德配合天时，养育万物。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "无妄，往吉。",
+        "vernacular": "不妄为，前往吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "不耕获，不菑畲，则利有攸往。",
+        "vernacular": "不去耕种而想收获，不去开垦而想有熟田，这样利于有所前往吗？",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "无妄之灾，或系之牛，行人之得，邑人之灾。",
+        "vernacular": "无妄之灾：有人把牛系在路边，过路人牵走了牛，乡邑之人却受到怀疑之灾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "可贞，无咎。",
+        "vernacular": "可以守正，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "无妄之疾，勿药有喜。",
+        "vernacular": "没有原因的疾病，不要用药，自会有喜事。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "无妄，行有眚，无攸利。",
+        "vernacular": "不妄为，但行动会有灾祸，没有什么利益。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "shallow_interpretation": "",
+    "judgment": "大畜，利贞。不家食，吉。利涉大川。",
+    "judgment_vernacular": "大畜卦，利于守正。不在家中吃饭（出仕为官），吉祥。利于渡过大川。积蓄厚德，蓄势待发。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "天在山中，大畜。君子以多识前言往行，以畜其德。",
+    "xiang_zhuan_vernacular": "天在山中，这是大畜的象征。君子应广泛学习前人的言行，以积蓄自己的德行。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "有厉，利已。",
+        "vernacular": "有危险，利于停止。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "舆说輹。",
+        "vernacular": "车轮的輹条脱落。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "良马逐，利艰贞。曰闲舆卫，利有攸往。",
+        "vernacular": "良马奔驰，利于艰难中守正。训练车马护卫技巧，利于有所前往。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "童牛之牿，元吉。",
+        "vernacular": "给小牛加上横木以防其角伤人，大吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "豮豕之牙，吉。",
+        "vernacular": "阉割过的猪的獠牙，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "何天之衢，亨。",
+        "vernacular": "何等通达的天路大道！亨通。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "shallow_interpretation": "",
+    "judgment": "颐，贞吉。观颐，自求口实。",
+    "judgment_vernacular": "颐卦，守正吉祥。观察颐养之道，自己谋求口中的食物。养生养德，自食其力。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "山下有雷，颐。君子以慎言语，节饮食。",
+    "xiang_zhuan_vernacular": "山下有雷，这是颐卦的象征。君子应谨慎言语，节制饮食。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "舍尔灵龟，观我朵颐，凶。",
+        "vernacular": "舍弃你的灵龟，却来看我大嚼食物，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "颠颐，拂经于丘颐，征凶。",
+        "vernacular": "颠倒颐养之道，违背常理去丘陵上求食，出征凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "拂颐，贞凶。十年勿用，无攸利。",
+        "vernacular": "违背颐养之道，守正也有凶险。十年内不可任用，无所利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "颠颐，吉。虎视眈眈，其欲逐逐，无咎。",
+        "vernacular": "颠倒颐养而吉祥。虎视眈眈，欲望追逐不停，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "拂经，居贞吉。不可涉大川。",
+        "vernacular": "违背常理，安居守正则吉。不可渡过大川。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "由颐，厉吉，利涉大川。",
+        "vernacular": "顺从颐养之道，虽有危厉却吉祥，利于渡过大川。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "shallow_interpretation": "",
+    "judgment": "大过，栋桡，利有攸往，亨。",
+    "judgment_vernacular": "大过卦，栋梁弯曲，利于有所前往，亨通。过度之时需要矫枉过正，中庸不是永远不变的。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "泽灭木，大过。君子以独立不惧，遁世无闷。",
+    "xiang_zhuan_vernacular": "泽水淹没了树木，这是大过的象征。君子独立无惧，遁世隐居也不会烦闷。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "藉用白茅，无咎。",
+        "vernacular": "祭祀时用洁白的茅草铺垫，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "枯杨生稊，老夫得其女妻，无不利。",
+        "vernacular": "枯杨树生出嫩芽，老夫得年轻的妻子，无所不利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "栋桡，凶。",
+        "vernacular": "栋梁弯曲，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "栋隆，吉。有它吝。",
+        "vernacular": "栋梁隆起，吉祥。但会有别的遗憾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "枯杨生华，老妇得其士夫，无咎无誉。",
+        "vernacular": "枯杨树开花，老妇得年轻的丈夫，没有过失也没有赞誉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "过涉灭顶，凶，无咎。",
+        "vernacular": "涉水过深淹没头顶，凶险，但没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "shallow_interpretation": "",
+    "judgment": "习坎，有孚，维心亨，行有尚。",
+    "judgment_vernacular": "坎卦，重重险阻，心怀诚信，内心亨通，行动会有嘉尚的结果。处险不惊，以诚信渡难关。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "水洊至，习坎。君子以常德行，习教事。",
+    "xiang_zhuan_vernacular": "水一波接一波到来，这是坎卦的象征。君子应保持恒常不变的德行，反复学习教导之事。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "习坎，入于坎窞，凶。",
+        "vernacular": "在重重险阻中，又陷入了深坑，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "坎有险，求小得。",
+        "vernacular": "坎中有险阻，但谋求小事会有收获。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "来之坎坎，险且枕，入于坎窞，勿用。",
+        "vernacular": "来到重重险阻面前，危险就在身边，陷入深坑之中，不可行动。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "樽酒簋贰，用缶，纳约自牖，终无咎。",
+        "vernacular": "一樽酒两簋食物，用瓦罐装，从窗户递进来结盟约，最终没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "坎不盈，祗既平，无咎。",
+        "vernacular": "险坑还没满，只要平定下来，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "系用徽纆，寘于丛棘，三岁不得，凶。",
+        "vernacular": "用绳索捆缚，置于荆棘丛中，三年不得解脱，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "shallow_interpretation": "",
+    "judgment": "离，利贞，亨。畜牝牛，吉。",
+    "judgment_vernacular": "离卦，利于守正，亨通。蓄养母牛，吉祥。依附于正道，光明相续。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "明两作，离。大人以继明照于四方。",
+    "xiang_zhuan_vernacular": "光明两次升起，这是离卦的象征。大人物以连续不断的光明照耀四方。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "履错然，敬之无咎。",
+        "vernacular": "脚步错乱，只要保持敬畏就没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "黄离，元吉。",
+        "vernacular": "黄色附丽于中道，大吉大利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "日昃之离，不鼓缶而歌，则大耋之嗟，凶。",
+        "vernacular": "太阳偏西时的附丽，不击缶而唱歌，则会有老暮之悲伤，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "突如其来如，焚如，死如，弃如。",
+        "vernacular": "突然发生，如同火烧，如同死亡，如同被抛弃。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "出涕沱若，戚嗟若，吉。",
+        "vernacular": "眼泪鼻涕流出很多，悲戚叹息，但吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "王用出征，有嘉折首，获匪其丑，无咎。",
+        "vernacular": "君王命其出征，有功斩杀敌方首领，俘获异类，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "shallow_interpretation": "",
+    "judgment": "咸，亨，利贞。取女吉。",
+    "judgment_vernacular": "咸卦，亨通，利于守正。娶妻吉祥。感应之道，以虚怀接纳他人。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "山上有泽，咸。君子以虚受人。",
+    "xiang_zhuan_vernacular": "山上有泽水浸润，这是咸卦的象征。君子以虚怀若谷的态度接纳他人。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "咸其拇。",
+        "vernacular": "感应在大脚趾上。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "咸其腓，凶，居吉。",
+        "vernacular": "感应在小腿上，凶险，安居则吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "咸其股，执其随，往吝。",
+        "vernacular": "感应在大腿上，执意追随别人，前往会有遗憾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "贞吉悔亡，憧憧往来，朋从尔思。",
+        "vernacular": "守正则吉悔恨消亡，心神不宁地来往，朋友会顺从你的心思。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "咸其脢，无悔。",
+        "vernacular": "感应在背脊上，没有悔恨。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "咸其辅、颊、舌。",
+        "vernacular": "感应在牙床、面颊、舌头上。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "shallow_interpretation": "",
+    "judgment": "恒，亨，无咎，利贞，利有攸往。",
+    "judgment_vernacular": "恒卦，亨通，没有过失，利于守正，利于有所前往。恒久之道在于坚持正道。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "雷风，恒。君子以立不易方。",
+    "xiang_zhuan_vernacular": "雷与风相随，这是恒卦的象征。君子立身处世坚守不变的原则。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "浚恒，贞凶，无攸利。",
+        "vernacular": "深求恒久之道，守正也有凶险，无所利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "悔亡。",
+        "vernacular": "悔恨消亡。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "不恒其德，或承之羞，贞吝。",
+        "vernacular": "不能恒久保持德行，或许会受到羞辱，守正也有遗憾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "田无禽。",
+        "vernacular": "田猎没有收获禽兽。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "恒其德，贞。妇人吉，夫子凶。",
+        "vernacular": "恒久保持德行，守正。妇人这样做吉祥，男子这样做凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "振恒，凶。",
+        "vernacular": "以动荡求恒久，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "shallow_interpretation": "",
+    "judgment": "遁，亨，小利贞。",
+    "judgment_vernacular": "遁卦，亨通，小事利于守正。适时退避，以退为进。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "天下有山，遁。君子以远小人，不恶而严。",
+    "xiang_zhuan_vernacular": "天下有山，这是遁卦的象征。君子远离小人，不用憎恶的方式但要保持严肃界限。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "遁尾，厉，勿用有攸往。",
+        "vernacular": "隐退时落在最后，危险，不宜有所前往。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "执之用黄牛之革，莫之胜说。",
+        "vernacular": "用黄牛皮制成的革带牢牢拴住，没有人能够解脱。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "系遁，有疾厉，畜臣妾吉。",
+        "vernacular": "被牵挂而不得退，有疾病危险，蓄养臣仆婢妾则吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "好遁，君子吉，小人否。",
+        "vernacular": "善于及时退避，君子吉祥，小人不妙。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "嘉遁，贞吉。",
+        "vernacular": "以美好的方式退避，守正则吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "肥遁，无不利。",
+        "vernacular": "从容宽裕地退避，无所不利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "shallow_interpretation": "",
+    "judgment": "大壮，利贞。",
+    "judgment_vernacular": "大壮卦，利于守正。强盛之时，切忌恃强凌弱。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "雷在天上，大壮。君子以非礼弗履。",
+    "xiang_zhuan_vernacular": "雷在天上，声势浩大，这是大壮的象征。君子不践行不礼之事。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "壮于趾，征凶，有孚。",
+        "vernacular": "强壮表现在脚趾上就要出征，凶险，但心怀诚信。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "贞吉。",
+        "vernacular": "守正则吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "小人用壮，君子用罔，贞厉。羝羊触藩，羸其角。",
+        "vernacular": "小人用强，君子不用强，守正有危厉。像公羊用角去撞篱笆，只会缠住它的角。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "贞吉悔亡，藩决不羸，壮于大舆之輹。",
+        "vernacular": "守正则吉悔恨消亡，篱笆被冲破不再被缠住，车輹坚固强壮。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "丧羊于易，无悔。",
+        "vernacular": "在田畔丢失了羊，没有悔恨。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "羝羊触藩，不能退，不能遂，无攸利，艰则吉。",
+        "vernacular": "公羊用角撞篱笆，不能后退也不能前进，无所利，艰难中守正则吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "shallow_interpretation": "",
+    "judgment": "晋，康侯用锡马蕃庶，昼日三接。",
+    "judgment_vernacular": "晋卦，康侯被赏赐众多马匹，一日之内三次接见。前进晋升，旭日东升。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "明出地上，晋。君子以自昭明德。",
+    "xiang_zhuan_vernacular": "太阳从地上出来，这是晋卦的象征。君子以自身的光辉昭示明德。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "晋如摧如，贞吉。罔孚，裕无咎。",
+        "vernacular": "前进又挫折，守正则吉。没有被人信任，宽容大度就没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "晋如愁如，贞吉。受兹介福，于其王母。",
+        "vernacular": "前进时忧愁，守正则吉。接受这大福，来自于祖母。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "众允，悔亡。",
+        "vernacular": "众人认可，悔恨消亡。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "晋如鼫鼠，贞厉。",
+        "vernacular": "前进如同鼯鼠（技多而不精），守正有危厉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "悔亡，失得勿恤。往吉，无不利。",
+        "vernacular": "悔恨消亡，得失不必忧虑。前往吉祥，无所不利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "晋其角，维用伐邑，厉吉无咎，贞吝。",
+        "vernacular": "用角前进猛冲，以此征伐邑国，有危厉但最终吉祥无咎，守正也有遗憾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "shallow_interpretation": "",
+    "judgment": "明夷，利艰贞。",
+    "judgment_vernacular": "明夷卦，利于在艰难中守正。光明受伤之时，韬光养晦以待天明。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "明入地中，明夷。君子以莅众，用晦而明。",
+    "xiang_zhuan_vernacular": "光明没入地中，这是明夷的象征。君子临众治事，以隐蔽的方式彰显光明。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "明夷于飞，垂其翼。君子于行，三日不食，有攸往，主人有言。",
+        "vernacular": "受伤的鸟飞行时垂下翅膀。君子出行，三日没有饭吃，有所前往，还受到主人的责难。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "明夷，夷于左股，用拯马壮，吉。",
+        "vernacular": "光明受伤，伤在左腿，用强壮的马拯救，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "明夷于南狩，得其大首，不可疾贞。",
+        "vernacular": "出征南方讨伐受伤的光明，擒获大首领，不可急于求成。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "入于左腹，获明夷之心，于出门庭。",
+        "vernacular": "进入左边的腹部，获得了受伤光明者的心，然后走出门庭。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "箕子之明夷，利贞。",
+        "vernacular": "箕子那样的光明受伤，利于守正。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "不明晦，初登于天，后入于地。",
+        "vernacular": "不光明而昏暗，起初升到天上，后来落入地下。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "shallow_interpretation": "",
+    "judgment": "家人，利女贞。",
+    "judgment_vernacular": "家人卦，利于女子守正。齐家之道，各司其职。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "风自火出，家人。君子以言有物，而行有恒。",
+    "xiang_zhuan_vernacular": "风从火中生出，这是家人的象征。君子说话要有根据，行为要有恒心。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "闲有家，悔亡。",
+        "vernacular": "在家中防患于未然，悔恨消亡。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "无攸遂，在中馈，贞吉。",
+        "vernacular": "没有特别的成就，在家中主管饮食，守正则吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "家人嗃嗃，悔厉吉。妇子嘻嘻，终吝。",
+        "vernacular": "家人严肃约束，有悔有厉但吉祥。妇人和孩子嬉笑无度，最终会有遗憾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "富家，大吉。",
+        "vernacular": "使家庭富裕，大吉大利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "王假有家，勿恤，吉。",
+        "vernacular": "君王亲临其家，不必担忧，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "有孚威如，终吉。",
+        "vernacular": "有诚信和威严，最终吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "shallow_interpretation": "",
+    "judgment": "睽，小事吉。",
+    "judgment_vernacular": "睽卦，小事吉祥。乖离之时，宜求同存异，以柔化刚。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "上火下泽，睽。君子以同而异。",
+    "xiang_zhuan_vernacular": "上火下泽，两相背离，这是睽卦的象征。君子在相同中发现差异。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "悔亡，丧马勿逐，自复。见恶人，无咎。",
+        "vernacular": "悔恨消亡，丢失了马不必去追赶，它自己会回来。见到恶人，也没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "遇主于巷，无咎。",
+        "vernacular": "在巷子里遇到了主人，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "见舆曳，其牛掣，其人天且劓，无初有终。",
+        "vernacular": "看到车子被拖住，拉车的牛被牵制，驾车的人额上刺字又被割了鼻子，开始不好但最终会有结果。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "睽孤，遇元夫，交孚，厉无咎。",
+        "vernacular": "在乖离中孤独一人，遇到了大丈夫，诚信相交，虽有危厉但无过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "悔亡，厥宗噬肤，往何咎。",
+        "vernacular": "悔恨消亡，同宗族的人咬食皮肤，前往有什么过失呢？",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "睽孤，见豕负涂，载鬼一车，先张之弧，后说之弧，匪寇婚媾，往遇雨则吉。",
+        "vernacular": "乖离孤独，看到猪背上涂满泥，车上载满鬼怪，先张弓欲射，后来放下弓，原来不是盗寇而是求婚者，前往遇到下雨则吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "shallow_interpretation": "",
+    "judgment": "蹇，利西南，不利东北。利见大人，贞吉。",
+    "judgment_vernacular": "蹇卦，利于往西南，不利于往东北。利于求见大人物，守正则吉。艰难坎坷之时，宜停止冒进。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "山上有水，蹇。君子以反身修德。",
+    "xiang_zhuan_vernacular": "山上有水难行，这是蹇卦的象征。君子遇到困难反省自身修德。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "往蹇，来誉。",
+        "vernacular": "前往会遇到艰难，回来会获得赞誉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "王臣蹇蹇，匪躬之故。",
+        "vernacular": "王臣们困难重重，不是因为自己做错了什么。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "往蹇，来反。",
+        "vernacular": "前往有困难，所以就回来。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "往蹇，来连。",
+        "vernacular": "前往会遇困难，回来会有人来连结相助。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "大蹇，朋来。",
+        "vernacular": "遇到大困难时，朋友会来。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "往蹇，来硕，吉。利见大人。",
+        "vernacular": "前往有困难，但回来会有大收获，吉祥。利于求见大人。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "shallow_interpretation": "",
+    "judgment": "解，利西南。无所往，其来复吉。有攸往，夙吉。",
+    "judgment_vernacular": "解卦，利于西南。没有目的地前往，回来就吉祥。有所前往，及早行动则吉。困境将解，宽恕为怀。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "雷雨作，解。君子以赦过宥罪。",
+    "xiang_zhuan_vernacular": "雷雨大作洗涤万物，这是解卦的象征。君子应赦免过错宽宥罪过。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "无咎。",
+        "vernacular": "没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "田获三狐，得黄矢，贞吉。",
+        "vernacular": "打猎捕获三只狐狸，得到黄色的箭，守正则吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "负且乘，致寇至，贞吝。",
+        "vernacular": "背着东西又乘车，会使盗寇到来，守正也有遗憾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "解而拇，朋至斯孚。",
+        "vernacular": "解开你脚趾的束缚，朋友来了才有诚信。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "君子维有解，吉。有孚于小人。",
+        "vernacular": "君子惟有解脱才吉祥。以诚信感召小人。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "公用射隼于高墉之上，获之，无不利。",
+        "vernacular": "公侯在高墙上射鹰隼，射中了，无所不利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "shallow_interpretation": "",
+    "judgment": "损，有孚，元吉，无咎，可贞，利有攸往。曷之用，二簋可用享。",
+    "judgment_vernacular": "损卦，有诚信大吉，没有过失，可以守正，利于有所前往。用什么来祭祀呢？两簋简单的食物就可以。损下益上，有时减损自己方能得益。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "山下有泽，损。君子以惩忿窒欲。",
+    "xiang_zhuan_vernacular": "山下有泽水，这是损卦的象征。君子应当惩戒愤怒、遏制贪欲。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "已事遄往，无咎，酌损之。",
+        "vernacular": "做完事情就赶快离开，没有过失，酌情减损。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "利贞，征凶，弗损益之。",
+        "vernacular": "利于守正，出征凶险，不减损反而增益。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "三人行，则损一人。一人行，则得其友。",
+        "vernacular": "三人同行就会减损一人。一人独行就会得到朋友。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "损其疾，使遄有喜，无咎。",
+        "vernacular": "减损自己的毛病，让它赶快恢复便有喜，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "或益之十朋之龟，弗克违，元吉。",
+        "vernacular": "有人加上价值十朋的大龟，不能拒绝，大吉大利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "弗损益之，无咎，贞吉，利有攸往，得臣无家。",
+        "vernacular": "不减损反而增益，没有过失，守正则吉，利于有所前往，得到臣子但没有家室之累。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "shallow_interpretation": "",
+    "judgment": "益，利有攸往，利涉大川。",
+    "judgment_vernacular": "益卦，利于有所前往，利于渡过大川。损上益下，增益善行。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "风雷，益。君子以见善则迁，有过则改。",
+    "xiang_zhuan_vernacular": "风雷相激，这是益卦的象征。君子看到善的就学习，有过就改正。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "利用为大作，元吉，无咎。",
+        "vernacular": "利于有大作为，大吉大利，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "或益之十朋之龟，弗克违，永贞吉。王用享于帝，吉。",
+        "vernacular": "有人加上十朋的大龟，不能拒绝，永久守正则吉。君王用它祭祀上帝，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "益之用凶事，无咎。有孚中行，告公用圭。",
+        "vernacular": "用增益之物处理凶事，没有过失。有诚信中道而行，用圭玉报告公侯。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "中行，告公从，利用为依迁国。",
+        "vernacular": "中道而行，报告公侯得到听从，利于以此为依据迁都。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "有孚惠心，勿问元吉。有孚惠我德。",
+        "vernacular": "有诚信和恩惠之心，不用问也大吉大利。以诚信来报答我的德行。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "莫益之，或击之，立心勿恒，凶。",
+        "vernacular": "没有人来增益他，反而有人攻击他，立心不恒久，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "shallow_interpretation": "",
+    "judgment": "夬，扬于王庭，孚号有厉。告自邑，不利即戎，利有攸往。",
+    "judgment_vernacular": "夬卦，在朝廷上宣扬公布，诚信地号令有危险。从自己的城邑告知，不利于立即兴兵，利于有所前往。决断之时，当断则断。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "泽上于天，夬。君子以施禄及下，居德则忌。",
+    "xiang_zhuan_vernacular": "泽水升到天上，这是夬卦的象征。君子应施与利禄给下面的人，如果居德自傲则有忌讳。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "壮于前趾，往不胜，为咎。",
+        "vernacular": "强壮表现在前脚趾上，前往不能取胜，反而成为过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "惕号，莫夜有戎，勿恤。",
+        "vernacular": "警惕号令，夜晚有兵事，不必担忧。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "壮于頄，有凶。君子夬夬，独行遇雨，若濡有愠，无咎。",
+        "vernacular": "强壮表现在颧骨上，有凶险。君子决断再决断，独自行路遇到下雨，被淋湿了有人恼怒，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "臀无肤，其行次且。牵羊悔亡，闻言不信。",
+        "vernacular": "臀部没有皮肤，走路困难。牵着羊悔恨消亡，听到话却不相信。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "苋陆夬夬，中行无咎。",
+        "vernacular": "像马齿苋那样脆弱而又果断决裂，中道而行没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "无号，终有凶。",
+        "vernacular": "没有号令，最终有凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "shallow_interpretation": "",
+    "judgment": "姤，女壮，勿用取女。",
+    "judgment_vernacular": "姤卦，女子强壮，不可娶这样的女子。不期而遇，邂逅相逢。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "天下有风，姤。后以施命诰四方。",
+    "xiang_zhuan_vernacular": "天下有风吹万物，这是姤卦的象征。君主以发布命令告示四方。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "系于金柅，贞吉。有攸往，见凶。羸豕孚蹢躅。",
+        "vernacular": "系在金属刹车装置上，守正则吉。有所前往会见凶险。疲弱的猪躁动不安。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "包有鱼，无咎，不利宾。",
+        "vernacular": "包裹中有鱼，没有过失，不利于宴客。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "臀无肤，其行次且，厉，无大咎。",
+        "vernacular": "臀部没有皮肤，行走困难，有危厉但没有大的过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "包无鱼，起凶。",
+        "vernacular": "包裹中没有鱼，行动起来有凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "以杞包瓜，含章，有陨自天。",
+        "vernacular": "用杞柳包裹瓜果，内含文采，有东西从天而降。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "姤其角，吝，无咎。",
+        "vernacular": "相遇在角尖上，有遗憾，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "shallow_interpretation": "",
+    "judgment": "萃，亨。王假有庙，利见大人，亨，利贞。用大牲吉，利有攸往。",
+    "judgment_vernacular": "萃卦，亨通。君王亲临宗庙，利于求见大人物，亨通，利于守正。用大牲祭祀吉祥，利于有所前往。聚集荟萃，团结一致。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "泽上于地，萃。君子以除戎器，戒不虞。",
+    "xiang_zhuan_vernacular": "泽水聚集在地上，这是萃卦的象征。君子应修整兵器，防备意外之事。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "有孚不终，乃乱乃萃，若号一握为笑，勿恤，往无咎。",
+        "vernacular": "有诚信却不能保持到底，就会混乱而聚集不起来。如果有人号哭，你一握手就笑，不必担忧，前往没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "引吉，无咎，孚乃利用禴。",
+        "vernacular": "被牵引着吉祥，没有过失。有诚信，即使用简单的禴祭也很有利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "萃如，嗟如，无攸利，往无咎，小吝。",
+        "vernacular": "聚集又有叹息，无所利，前往没有过失，稍有小遗憾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "大吉，无咎。",
+        "vernacular": "大吉大利，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "萃有位，无咎。匪孚，元永贞，悔亡。",
+        "vernacular": "在聚集中有地位，没有过失。如果不是出于诚信，从开始一直守正到永远，悔恨才会消亡。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "赍咨涕洟，无咎。",
+        "vernacular": "带着财物叹息流泪涕下，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "shallow_interpretation": "",
+    "judgment": "升，元亨，用见大人，勿恤，南征吉。",
+    "judgment_vernacular": "升卦，大亨通，以此求见大人，不必担忧，向南出征吉祥。循序渐进，积小成大。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "地中生木，升。君子以顺德，积小以高大。",
+    "xiang_zhuan_vernacular": "地中生长出树木，这是升卦的象征。君子以柔顺之德，积小步以至千里。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "允升，大吉。",
+        "vernacular": "诚信地上升，大吉大利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "孚乃利用禴，无咎。",
+        "vernacular": "有诚信即使用简单的禴祭也利，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "升虚邑。",
+        "vernacular": "上升到空虚的城邑。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "王用亨于岐山，吉无咎。",
+        "vernacular": "君王在岐山祭祀，吉祥没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "贞吉，升阶。",
+        "vernacular": "守正则吉，沿着台阶一步步上升。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "冥升，利于不息之贞。",
+        "vernacular": "在昏暗中还要上升，利于永不停息地守正。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "shallow_interpretation": "",
+    "judgment": "困，亨，贞，大人吉，无咎。有言不信。",
+    "judgment_vernacular": "困卦，亨通，守正，大人物吉祥没有过失。但有说话别人不相信的情况。困境之时，坚守信念。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "泽无水，困。君子以致命遂志。",
+    "xiang_zhuan_vernacular": "泽中干涸无水，这是困卦的象征。君子在困境中不惜以命完成志向。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "臀困于株木，入于幽谷，三岁不觌。",
+        "vernacular": "臀被困在树桩中，落入幽谷，三年不见人面。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "困于酒食，朱绂方来，利用亨祀，征凶，无咎。",
+        "vernacular": "被酒食宴会所困，红色官服刚刚来到，利于祭祀，出征凶险，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "困于石，据于蒺藜，入于其宫，不见其妻，凶。",
+        "vernacular": "被石头所困，手据在蒺藜上，进入宫室，见不到妻子，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "来徐徐，困于金车，吝，有终。",
+        "vernacular": "慢吞吞地前来，被金属车所困，有遗憾，但会有结果。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "劓刖，困于赤绂，乃徐有说，利用祭祀。",
+        "vernacular": "被割鼻断足，被红色官服所困，慢慢才有解脱，利于祭祀。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "困于葛藟，于臲兀，曰动悔。有悔，征吉。",
+        "vernacular": "被藤蔓缠绕被困，处于危险不安中，动则有悔。唯有主动行动才吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "shallow_interpretation": "",
+    "judgment": "井，改邑不改井，无丧无得，往来井井。汔至亦未繘井，羸其瓶，凶。",
+    "judgment_vernacular": "井卦，城邑可以改变但水井不变，没有失去也没有得到，人来人往都依靠这口井。快打到水了却没把井绳放下去，打碎了水瓶，凶险。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "木上有水，井。君子以劳民劝相。",
+    "xiang_zhuan_vernacular": "树木上有水，这是井卦的象征。君子以此勤劳民众劝勉互助。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "井泥不食，旧井无禽。",
+        "vernacular": "井底有泥不能饮用，旧井连飞禽也不来。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "井谷射鲋，瓮敝漏。",
+        "vernacular": "井底射小鱼，水瓮破损漏水。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "井渫不食，为我心恻，可用汲，王明，并受其福。",
+        "vernacular": "井水清澈却没人饮用，令我心中悲伤。这井水可以汲取，君王明智，大家都会受福。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "井甃，无咎。",
+        "vernacular": "用砖砌井壁，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "井冽，寒泉食。",
+        "vernacular": "井水清冽，如寒泉般可以饮用。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "井收勿幕，有孚元吉。",
+        "vernacular": "打水后不要盖上井盖，有诚信大吉大利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "shallow_interpretation": "",
+    "judgment": "革，己日乃孚，元亨利贞，悔亡。",
+    "judgment_vernacular": "革卦，到了己日才有诚信，元始亨通利于守正，悔恨消亡。变革之时，顺应天时。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "泽中有火，革。君子以治历明时。",
+    "xiang_zhuan_vernacular": "泽中有火，水火相革，这是革卦的象征。君子制定历法明确时序。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "巩用黄牛之革。",
+        "vernacular": "像用黄牛皮革带一样牢固地约束。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "己日乃革之，征吉，无咎。",
+        "vernacular": "到了己日才实行变革，出征吉祥没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "征凶，贞厉，革言三就，有孚。",
+        "vernacular": "出征凶险，守正有危厉。变革的言论经过三次讨论才确定，有诚信。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "悔亡，有孚改命，吉。",
+        "vernacular": "悔恨消亡，有诚信地接受新命，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "大人虎变，未占有孚。",
+        "vernacular": "大人像老虎换毛般焕然一新，不用占也能获得信任。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "君子豹变，小人革面，征凶，居贞吉。",
+        "vernacular": "君子像豹子换毛般变革更新，小人只是改变面目，出征凶险，安居守正则吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "shallow_interpretation": "",
+    "judgment": "鼎，元吉，亨。",
+    "judgment_vernacular": "鼎卦，大吉大利，亨通。革故鼎新，正位凝命。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "木上有火，鼎。君子以正位凝命。",
+    "xiang_zhuan_vernacular": "木上有火在烹饪，这是鼎卦的象征。君子端正位置凝聚使命。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "鼎颠趾，利出否。得妾以其子，无咎。",
+        "vernacular": "鼎脚颠倒，利于倒出陈腐之物。娶妾而得儿子，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "鼎有实，我仇有疾，不我能即，吉。",
+        "vernacular": "鼎中有食物，我对手有疾病，不能接近我，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "鼎耳革，其行塞，雉膏不食，方雨亏悔，终吉。",
+        "vernacular": "鼎耳脱落，移动受阻，雉鸡的膏脂不能食用，刚好下雨减少了悔恨，最终吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "鼎折足，覆公餗，其形渥，凶。",
+        "vernacular": "鼎足折断，倾覆了公侯的美食，弄得很狼狈，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "鼎黄耳金铉，利贞。",
+        "vernacular": "鼎有黄色的耳和金属的铉，利于守正。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "鼎玉铉，大吉，无不利。",
+        "vernacular": "鼎有玉铉装饰，大吉大利无所不利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "shallow_interpretation": "",
+    "judgment": "震，亨。震来虩虩，笑言哑哑。震惊百里，不丧匕鬯。",
+    "judgment_vernacular": "震卦，亨通。惊雷滚滚而来令人恐惧，但过后依旧谈笑自若。雷声震惊百里，手中的祭祀器具却稳稳不掉。临危不乱。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "洊雷，震。君子以恐惧修省。",
+    "xiang_zhuan_vernacular": "雷声接连不断，这是震卦的象征。君子怀着恐惧之心修身反省。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "震来虩虩，后笑言哑哑，吉。",
+        "vernacular": "惊雷滚滚而来恐惧，随后谈笑自若，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "震来厉，亿丧贝，跻于九陵，勿逐，七日得。",
+        "vernacular": "雷来得很猛烈，损失了大量钱财，登上九陵高处躲避，不必追逐，七天就会失而复得。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "震苏苏，震行无眚。",
+        "vernacular": "在雷震中虽然惊惶不安，但谨慎行动就不会有灾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "震遂泥。",
+        "vernacular": "雷震时陷入了泥沼之中。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "震往来厉，亿无丧，有事。",
+        "vernacular": "雷震来去都很猛烈，虽然没有什么损失，但有事情要处理。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "震索索，视矍矍，征凶。震不于其躬，于其邻，无咎。婚媾有言。",
+        "vernacular": "雷震令人发抖畏惧，眼光惊惶四顾，出征凶险。雷震没有伤及自身而伤及邻居，没有过失。婚事会有口舌之争。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "shallow_interpretation": "",
+    "judgment": "艮，其背，不获其身，行其庭，不见其人，无咎。",
+    "judgment_vernacular": "艮卦，止于背部看不到全身，走在庭院中也看不见人，没有过失。知止不殆，适可而止。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "兼山，艮。君子以思不出其位。",
+    "xiang_zhuan_vernacular": "两座山并立，这是艮卦的象征。君子的思虑不超越自己的本分。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "艮其趾，无咎，利永贞。",
+        "vernacular": "停止在脚趾上，没有过失，利于永远守正。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "艮其腓，不拯其随，其心不快。",
+        "vernacular": "停止在小腿上，不能拯救所追随的人，心中不快。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "艮其限，列其夤，厉薰心。",
+        "vernacular": "停止在腰上，脊肉都裂开了，危险烧灼着内心。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "艮其身，无咎。",
+        "vernacular": "停止在身体上，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "艮其辅，言有序，悔亡。",
+        "vernacular": "停止在面颊上，说话有条理有顺序，悔恨消亡。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "敦艮，吉。",
+        "vernacular": "以敦厚的态度知止，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "shallow_interpretation": "",
+    "judgment": "渐，女归吉，利贞。",
+    "judgment_vernacular": "渐卦，女子出嫁吉祥，利于守正。循序渐进，不可急于求成。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "山上有木，渐。君子以居贤德，善俗。",
+    "xiang_zhuan_vernacular": "山上有树木日渐高大，这是渐卦的象征。君子居住在有贤德的地方，改善风俗。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "鸿渐于干，小子厉，有言，无咎。",
+        "vernacular": "鸿雁渐渐飞到了河岸，小子有危险，会有口舌，但没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "鸿渐于磐，饮食衎衎，吉。",
+        "vernacular": "鸿雁渐渐飞到了磐石上，饮食欢乐自得，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "鸿渐于陆，夫征不复，妇孕不育，凶。利御寇。",
+        "vernacular": "鸿雁渐渐飞到了陆地上，丈夫出征不归，妇人怀孕不育，凶险。利于抵御外寇。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "鸿渐于木，或得其桷，无咎。",
+        "vernacular": "鸿雁渐渐飞到了树上，或者停留在椽木上，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "鸿渐于陵，妇三岁不孕，终莫之胜，吉。",
+        "vernacular": "鸿雁渐渐飞到了山陵上，妇人三年不怀孕，最终没有什么能战胜她，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "鸿渐于陆，其羽可用为仪，吉。",
+        "vernacular": "鸿雁渐渐飞到了高处，它的羽毛可以用作礼仪装饰，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "shallow_interpretation": "",
+    "judgment": "归妹，征凶，无攸利。",
+    "judgment_vernacular": "归妹卦，出征凶险，无所利。关乎婚嫁之时，宜以礼而行。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "泽上有雷，归妹。君子以永终知敝。",
+    "xiang_zhuan_vernacular": "泽上有雷，这是归妹的象征。君子对婚姻要永守终始、知道破裂的弊端而加以防备。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "归妹以娣，跛能履，征吉。",
+        "vernacular": "以妹妹陪嫁姐姐同嫁一夫，跛脚但还能行走，出征吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "眇能视，利幽人之贞。",
+        "vernacular": "一只眼瞎了还能看见，利于幽居隐士的守正。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "归妹以须，反归以娣。",
+        "vernacular": "以姐姐的身份出嫁却变成了妹妹陪嫁的身份。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "归妹愆期，迟归有时。",
+        "vernacular": "出嫁错过了婚期，延迟出嫁但还有时间机会。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "帝乙归妹，其君之袂，不如其娣之袂良。月几望，吉。",
+        "vernacular": "帝乙嫁出妹妹，正妻的衣袖反不如陪嫁妹妹的衣袖好。月将圆时，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "女承筐无实，士刲羊无血，无攸利。",
+        "vernacular": "女子捧着的筐里是空的，男子杀羊却没有血，无所利。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "shallow_interpretation": "",
+    "judgment": "丰，亨，王假之，勿忧，宜日中。",
+    "judgment_vernacular": "丰卦，亨通，君王亲临，不必担忧，最好在正午时行动。丰盛之时，宜保持清醒。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "雷电皆至，丰。君子以折狱致刑。",
+    "xiang_zhuan_vernacular": "雷电同时来到，声势浩大，这是丰卦的象征。君子以此判断刑狱施行刑罚。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "遇其配主，虽旬无咎，往有尚。",
+        "vernacular": "遇到了匹配的主人，即使超过十天也没有过失，前往会有嘉尚。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "丰其蔀，日中见斗，往得疑疾，有孚发若，吉。",
+        "vernacular": "丰盛时被遮蔽，正午时分竟然看到了北斗星，前往会遭怀疑之疾，有诚信启发则吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "丰其沛，日中见沫，折其右肱，无咎。",
+        "vernacular": "丰盛时被遮暗，正午看到了小星，折断右臂，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "丰其蔀，日中见斗，遇其夷主，吉。",
+        "vernacular": "丰盛时被遮蔽，正午看到了北斗星，遇到了夷平之主，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "来章，有庆誉，吉。",
+        "vernacular": "来显扬文采，有喜庆和美誉，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "丰其屋，蔀其家，窥其户，阒其无人，三岁不觌，凶。",
+        "vernacular": "丰盛他的屋宇，遮蔽他的家室，窥视他的门户，寂静无人，三年不见人影，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "shallow_interpretation": "",
+    "judgment": "旅，小亨，旅贞吉。",
+    "judgment_vernacular": "旅卦，小有亨通，旅行在外守正则吉。客居他乡，宜柔顺守正。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "山上有火，旅。君子以明慎用刑，而不留狱。",
+    "xiang_zhuan_vernacular": "山上有火，旅人匆匆，这是旅卦的象征。君子明察审慎用刑，而不拖延狱案。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "旅琐琐，斯其所取灾。",
+        "vernacular": "旅途中斤斤计较琐碎小事，这正是自取灾祸之由。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "旅即次，怀其资，得童仆，贞。",
+        "vernacular": "旅途中到了住处，怀揣着财物，得到了忠心的童仆，守正。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "旅焚其次，丧其童仆，贞厉。",
+        "vernacular": "旅途中住的地方被烧了，失去了童仆，守正也有危厉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "旅于处，得其资斧，我心不快。",
+        "vernacular": "旅途中找到了住处，寻回了财物和斧头，但心中仍不快乐。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "射雉一矢亡，终以誉命。",
+        "vernacular": "射野鸡，一支箭就射中了，最终获得美好声誉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "鸟焚其巢，旅人先笑后号咷。丧牛于易，凶。",
+        "vernacular": "鸟的巢穴被焚毁，旅人先前欢喜后痛哭。在田畔丢失了牛，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "shallow_interpretation": "",
+    "judgment": "巽，小亨，利有攸往，利见大人。",
+    "judgment_vernacular": "巽卦，小亨通，利于有所前往，利于求见大人。谦逊顺从，以柔克刚。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "随风，巽。君子以申命行事。",
+    "xiang_zhuan_vernacular": "风随风而入，这是巽卦的象征。君子以反复申明命令来行事。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "进退，利武人之贞。",
+        "vernacular": "进退不决，利于武人般果断守正。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "巽在床下，用史巫纷若，吉无咎。",
+        "vernacular": "谦逊地伏在床下，请来众多史官巫师祈福，吉祥没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "频巽，吝。",
+        "vernacular": "频繁地表示顺从，有遗憾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "悔亡，田获三品。",
+        "vernacular": "悔恨消亡，田猎获得三种品类的猎物。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "贞吉悔亡，无不利。无初有终，先庚三日，后庚三日，吉。",
+        "vernacular": "守正则吉悔恨消亡，无所不利。开始不好但后来有好的结局，庚日前三天后三天，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "巽在床下，丧其资斧，贞凶。",
+        "vernacular": "谦逊地伏在床下，丢失了资财和斧头，守正也有凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "shallow_interpretation": "",
+    "judgment": "兑，亨，利贞。",
+    "judgment_vernacular": "兑卦，亨通，利于守正。愉悦和谐，朋友讲习。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "丽泽，兑。君子以朋友讲习。",
+    "xiang_zhuan_vernacular": "两泽相连互相浸润，这是兑卦的象征。君子与朋友互相讲习学习。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "和兑，吉。",
+        "vernacular": "以和悦的态度对待人，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "孚兑，吉，悔亡。",
+        "vernacular": "以诚信而和悦，吉祥，悔恨消亡。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "来兑，凶。",
+        "vernacular": "前来谄媚讨好，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "商兑，未宁，介疾有喜。",
+        "vernacular": "商议而和悦，虽未安宁，但隔阂之疾会消除有喜。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "孚于剥，有厉。",
+        "vernacular": "诚信于剥落之人，有危厉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "引兑。",
+        "vernacular": "被牵引着去和悦别人。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "shallow_interpretation": "",
+    "judgment": "涣，亨。王假有庙，利涉大川，利贞。",
+    "judgment_vernacular": "涣卦，亨通。君王亲临宗庙，利于渡过大川，利于守正。涣散之时，宜凝聚人心。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "风行水上，涣。先王以享于帝立庙。",
+    "xiang_zhuan_vernacular": "风在水上吹行，这是涣卦的象征。先王以祭祀上帝建立宗庙来凝聚人心。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "用拯马壮，吉。",
+        "vernacular": "用健壮的马去拯救，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "涣奔其机，悔亡。",
+        "vernacular": "在涣散时奔向几案（寻求安定），悔恨消亡。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "涣其躬，无悔。",
+        "vernacular": "涣散及于自身，但没有悔恨。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "涣其群，元吉。涣有丘，匪夷所思。",
+        "vernacular": "涣散他的朋党，大吉。涣散中有丘陵般稳固的东西存在，不是一般人能想到的。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "涣汗其大号，涣王居，无咎。",
+        "vernacular": "像出汗一样发布号令，涣散时王仍安居，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "涣其血，去逖出，无咎。",
+        "vernacular": "涣散其伤害，远离危险走出困境，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "shallow_interpretation": "",
+    "judgment": "节，亨。苦节不可贞。",
+    "judgment_vernacular": "节卦，亨通。以苦涩的节制方式不可长久守正。节制有度，适可而止。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "泽上有水，节。君子以制数度，议德行。",
+    "xiang_zhuan_vernacular": "泽上有水以堤为节，这是节卦的象征。君子制定礼数法度，议论道德品行。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "不出户庭，无咎。",
+        "vernacular": "不走出家门内院，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "不出门庭，凶。",
+        "vernacular": "不走出家门外面，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "不节若，则嗟若，无咎。",
+        "vernacular": "不节制的话就会唉声叹气，但不责怪别人就没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "安节，亨。",
+        "vernacular": "安然接受节制，亨通。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "甘节，吉。往有尚。",
+        "vernacular": "心甘情愿地节制，吉祥。前往会有嘉尚。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "苦节，贞凶，悔亡。",
+        "vernacular": "苦涩勉强的节制，守正也有凶险，但悔恨也会消亡。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "shallow_interpretation": "",
+    "judgment": "中孚，豚鱼吉，利涉大川，利贞。",
+    "judgment_vernacular": "中孚卦，诚信能够感动豚鱼这样微不足道之物，所以吉祥。利于渡过大川，利于守正。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "泽上有风，中孚。君子以议狱缓死。",
+    "xiang_zhuan_vernacular": "泽上有风吹拂，这是中孚的象征。君子以诚信之心讨论狱案缓免死刑。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "虞吉，有它不燕。",
+        "vernacular": "安然就吉祥，有别的事就不能安居了。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "鸣鹤在阴，其子和之。我有好爵，吾与尔靡之。",
+        "vernacular": "鸣叫的鹤在隐蔽之处，小鹤和声相应。我有好酒，我与你共享。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "得敌，或鼓或罢，或泣或歌。",
+        "vernacular": "遇到了对手，时而击鼓时而停止，时而哭泣时而歌唱。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "月几望，马匹亡，无咎。",
+        "vernacular": "月亮快要圆了，马匹丢失了，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "有孚挛如，无咎。",
+        "vernacular": "以诚信团结在一起，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "翰音登于天，贞凶。",
+        "vernacular": "鸟的鸣叫声惊动上天，守正也有凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "shallow_interpretation": "",
+    "judgment": "小过，亨，利贞。可小事，不可大事。飞鸟遗之音，不宜上，宜下，大吉。",
+    "judgment_vernacular": "小过卦，亨通，利于守正。可以做小事，不可做大事。飞鸟留下鸣叫声，不宜上飞而宜下栖，大吉大利。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "山上有雷，小过。君子以行过乎恭，丧过乎哀，用过乎俭。",
+    "xiang_zhuan_vernacular": "山上有雷声，这是小过的象征。君子行为过度于恭敬，丧事过度于悲哀，用度过度于节俭。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "飞鸟以凶。",
+        "vernacular": "飞鸟带来凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "过其祖，遇其妣。不及其君，遇其臣，无咎。",
+        "vernacular": "越过了祖父遇到了祖母。没有到达君王那里，遇到他的大臣，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "弗过防之，从或戕之，凶。",
+        "vernacular": "不过分地防备，随从的话可能会遭到伤害，凶险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "无咎，弗过遇之。往厉必戒，勿用永贞。",
+        "vernacular": "没有过失，不要过分就会遇到好事。前往有危险必须以自戒，不可固守不变。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "密云不雨，自我西郊。公弋取彼在穴。",
+        "vernacular": "浓密云层不下雨，来自我的西郊。公侯用弋射箭射取洞穴里的猎物。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "弗遇过之，飞鸟离之，凶，是谓灾眚。",
+        "vernacular": "没有相遇却越过了，飞鸟陷入罗网之中，凶险，这就是所谓的灾祸。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "shallow_interpretation": "",
+    "judgment": "既济，亨小，利贞。初吉终乱。",
+    "judgment_vernacular": "既济卦，小有亨通，利于守正。开始吉祥但最终会有混乱。事已成之时，宜防盛极而衰。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "水在火上，既济。君子以思患而豫防之。",
+    "xiang_zhuan_vernacular": "水在火上烹饪，这是既济的象征。君子思虑隐患而预先防备。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初九",
+        "text": "曳其轮，濡其尾，无咎。",
+        "vernacular": "拖住车轮，沾湿了尾巴，没有过失。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "六二",
+        "text": "妇丧其茀，勿逐，七日得。",
+        "vernacular": "妇人丢失了车饰，不必去追寻，七日就会得到。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "九三",
+        "text": "高宗伐鬼方，三年克之，小人勿用。",
+        "vernacular": "殷高宗征伐鬼方国，三年才攻克，不可重用小人。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "六四",
+        "text": "繻有衣袽，终日戒。",
+        "vernacular": "有破旧的衣服可以做棉絮，整天都要戒备。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "九五",
+        "text": "东邻杀牛，不如西邻之禴祭，实受其福。",
+        "vernacular": "东邻宰牛大祭，不如西邻简单的禴祭，实实在在地享受祭祀之福。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上六",
+        "text": "濡其首，厉。",
+        "vernacular": "把头浸入水中，危险。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "shallow_interpretation": "",
+    "judgment": "未济，亨。小狐汔济，濡其尾，无攸利。",
+    "judgment_vernacular": "未济卦，亨通。小狐狸快要渡河时沾湿了尾巴，无所利。事物未成之时，需继续努力。",
+    "tuan_zhuan": "",
+    "tuan_zhuan_vernacular": "",
+    "xiang_zhuan": "火在水上，未济。君子以慎辨物居方。",
+    "xiang_zhuan_vernacular": "火在水上不能烹饪，这是未济的象征。君子谨慎辨别事物，选择合适的方位。",
+    "lines": [
+      {
+        "number": 1,
+        "name": "初六",
+        "text": "濡其尾，吝。",
+        "vernacular": "沾湿了尾巴，有遗憾。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 2,
+        "name": "九二",
+        "text": "曳其轮，贞吉。",
+        "vernacular": "拖住车轮使其不能前行，守正则吉。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 3,
+        "name": "六三",
+        "text": "未济，征凶，利涉大川。",
+        "vernacular": "事情未成，出征凶险，但利于渡过大川。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 4,
+        "name": "九四",
+        "text": "贞吉悔亡，震用伐鬼方，三年有赏于大国。",
+        "vernacular": "守正则吉悔亡，以震雷之势征伐鬼方，三年后得到大国的赏赐。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 5,
+        "name": "六五",
+        "text": "贞吉无悔，君子之光，有孚，吉。",
+        "vernacular": "守正则吉没有悔恨，君子的光辉，有诚信，吉祥。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
+      },
+      {
+        "number": 6,
+        "name": "上九",
+        "text": "有孚于饮酒，无咎。濡其首，有孚失是。",
+        "vernacular": "有诚信在饮酒中，没有过失。把头浸入酒中，有诚信也会失去正道。",
+        "xiao_xiang": "",
+        "xiao_xiang_vernacular": "",
+        "changing_meaning": ""
       }
     ]
   }
