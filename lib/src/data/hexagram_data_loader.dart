@@ -15,9 +15,13 @@ class HexagramDataLoader {
 
   /// Load all JSON data files into SQLite
   Future<void> loadAllData() async {
-    if (await isDataLoaded()) return;
+    final loaded = await isDataLoaded();
 
-    await _loadBasicData();
+    if (!loaded) {
+      await _loadBasicData();
+    }
+
+    // Always update deep data and cases (they use UPDATE/INSERT)
     await _loadDeepData();
     await _loadCases('assets/data/cases_ancient.json', 'ancient');
     await _loadCases('assets/data/cases_modern.json', 'modern');
@@ -63,7 +67,8 @@ class HexagramDataLoader {
         'shallow_interpretation': map['shallow_interpretation'] ?? '',
       }, where: 'id = ?', whereArgs: [hexId]);
 
-      // Insert line texts
+      // Delete old line texts then re-insert
+      await db.delete('hexagram_lines', where: 'hexagram_id = ?', whereArgs: [hexId]);
       final lines = map['lines'] as List<dynamic>? ?? [];
       for (final line in lines) {
         final l = line as Map<String, dynamic>;
@@ -85,6 +90,9 @@ class HexagramDataLoader {
     try {
       final jsonStr = await rootBundle.loadString(assetPath);
       final List<dynamic> data = json.decode(jsonStr);
+
+      // Clear old cases of this type before re-inserting
+      await db.delete('case_references', where: 'source_type = ?', whereArgs: [sourceType]);
 
       for (final item in data) {
         final map = item as Map<String, dynamic>;
