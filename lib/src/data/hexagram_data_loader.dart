@@ -21,10 +21,8 @@ class HexagramDataLoader {
       await _loadBasicData();
     }
 
-    // Always update deep data and cases (they use UPDATE/INSERT)
+    // Always update deep data
     await _loadDeepData();
-    await _loadCases('assets/data/cases_ancient.json', 'ancient');
-    await _loadCases('assets/data/cases_modern.json', 'modern');
   }
 
   Future<void> _loadBasicData() async {
@@ -86,28 +84,4 @@ class HexagramDataLoader {
     }
   }
 
-  Future<void> _loadCases(String assetPath, String sourceType) async {
-    try {
-      final jsonStr = await rootBundle.loadString(assetPath);
-      final List<dynamic> data = json.decode(jsonStr);
-
-      // Clear old cases of this type before re-inserting
-      await db.delete('case_references', where: 'source_type = ?', whereArgs: [sourceType]);
-
-      for (final item in data) {
-        final map = item as Map<String, dynamic>;
-        await db.insert('case_references', {
-          'hexagram_id': map['hexagram_id'],
-          'source': map['source'] ?? '',
-          'source_type': sourceType,
-          'title': map['title'] ?? '',
-          'narrative': map['narrative'] ?? '',
-          'analysis': map['analysis'] ?? '',
-          'relevance': map['relevance'],
-        });
-      }
-    } catch (_) {
-      // File may not exist yet, that's OK
-    }
-  }
 }

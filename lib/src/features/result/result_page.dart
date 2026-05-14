@@ -10,7 +10,6 @@ import 'widgets/hexagram_display.dart';
 import 'widgets/hexagram_info.dart';
 import 'widgets/shallow_interpretation.dart';
 import 'widgets/deep_interpretation.dart';
-import 'widgets/case_reference_card.dart';
 import 'widgets/interpretation_toggle.dart';
 
 class ResultPage extends ConsumerStatefulWidget {
@@ -164,10 +163,6 @@ class _ResultPageState extends ConsumerState<ResultPage>
               else
                 _buildDeep(),
 
-              const SizedBox(height: 16),
-
-              // 案例参考
-              CaseReferenceCard(hexagramId: _result.originalHexagramId),
               const SizedBox(height: 24),
 
               // 操作按钮
