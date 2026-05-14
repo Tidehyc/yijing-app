@@ -35,12 +35,16 @@ class _DivinationPageState extends ConsumerState<DivinationPage>
     super.initState();
     _setupAnimations();
 
-    // 初始化音频
-    final audio = ref.read(audioServiceProvider);
-    audio.init().then((_) => audio.playBgMusic());
+    // 初始化音频（移动端才有效）
+    try {
+      final audio = ref.read(audioServiceProvider);
+      audio.init().then((_) => audio.playBgMusic());
+    } catch (_) {}
 
-    // 启用摇动检测
-    _sensor.startListening(onShake: _performCast);
+    // 启用摇动检测（移动端才有效）
+    try {
+      _sensor.startListening(onShake: _performCast);
+    } catch (_) {}
   }
 
   void _setupAnimations() {

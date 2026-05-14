@@ -17,6 +17,37 @@ class DeepInterpretation extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final hasJudgment = (hexagramData['judgment'] as String?)?.isNotEmpty == true;
+    final hasTuan = (hexagramData['tuan_zhuan'] as String?)?.isNotEmpty == true;
+    final hasXiang = (hexagramData['xiang_zhuan'] as String?)?.isNotEmpty == true;
+    final hasLines = lineTexts.isNotEmpty;
+
+    if (!hasJudgment && !hasTuan && !hasXiang && !hasLines) {
+      return AntiqueCard(
+        padding: const EdgeInsets.all(24),
+        child: Column(
+          children: [
+            Icon(Icons.hourglass_empty, color: AppColors.inkLight, size: 32),
+            const SizedBox(height: 12),
+            const CalligraphyText(
+              '暂无深解数据',
+              fontSize: 16,
+              color: AppColors.inkGray,
+              textAlign: TextAlign.center,
+            ),
+            const SizedBox(height: 8),
+            const CalligraphyText(
+              '深度卦辞、彖传、象传、爻辞正在持续录入中\n你可以先查看浅解了解卦象大意',
+              fontSize: 13,
+              color: AppColors.inkLight,
+              textAlign: TextAlign.center,
+              height: 1.8,
+            ),
+          ],
+        ),
+      );
+    }
+
     return Column(
       children: [
         _buildSection('卦辞', hexagramData['judgment'] as String?,

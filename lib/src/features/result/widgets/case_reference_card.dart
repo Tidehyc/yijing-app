@@ -45,7 +45,44 @@ class _CaseReferenceCardState extends ConsumerState<CaseReferenceCard> {
     if (_loading) return const SizedBox.shrink();
 
     final allCases = _showAncient ? _ancientCases : _modernCases;
-    if (allCases.isEmpty) return const SizedBox.shrink();
+
+    if (_ancientCases.isEmpty && _modernCases.isEmpty) {
+      return AntiqueCard(
+        padding: const EdgeInsets.all(20),
+        child: Column(
+          children: [
+            Icon(Icons.menu_book, color: AppColors.inkLight, size: 28),
+            const SizedBox(height: 8),
+            const CalligraphyText(
+              '暂无案例参考',
+              fontSize: 15,
+              color: AppColors.inkGray,
+              textAlign: TextAlign.center,
+            ),
+            const SizedBox(height: 4),
+            const CalligraphyText(
+              '案例数据正在持续录入中',
+              fontSize: 13,
+              color: AppColors.inkLight,
+              textAlign: TextAlign.center,
+            ),
+          ],
+        ),
+      );
+    }
+
+    if (allCases.isEmpty) {
+      // One type has cases, but the currently selected one doesn't
+      return Padding(
+        padding: const EdgeInsets.only(top: 8),
+        child: CalligraphyText(
+          _showAncient ? '暂无古代案例，切换查看现代案例' : '暂无现代案例，切换查看古代案例',
+          fontSize: 14,
+          color: AppColors.inkLight,
+          textAlign: TextAlign.center,
+        ),
+      );
+    }
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
