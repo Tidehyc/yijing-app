@@ -18,7 +18,7 @@ class AudioService {
     _initialized = true;
 
     try {
-      await _bgMusicPlayer.setSource(AssetSource('audio/guzheng_bg.mp3'));
+      await _bgMusicPlayer.setSource(AssetSource('audio/guzheng_bg.wav'));
       await _bgMusicPlayer.setReleaseMode(ReleaseMode.loop);
       await _bgMusicPlayer.setVolume(0.25);
     } catch (_) {
@@ -43,7 +43,7 @@ class AudioService {
     if (!_sfxEnabled) return;
     try {
       await _sfxPlayer.stop();
-      await _sfxPlayer.play(AssetSource('audio/coin_collision.mp3'));
+      await _sfxPlayer.play(AssetSource('audio/coin_collision.wav'));
     } catch (_) {}
   }
 
@@ -51,7 +51,7 @@ class AudioService {
     if (!_sfxEnabled) return;
     try {
       await _sfxPlayer.stop();
-      await _sfxPlayer.play(AssetSource('audio/coin_land.mp3'));
+      await _sfxPlayer.play(AssetSource('audio/coin_land.wav'));
     } catch (_) {}
   }
 
