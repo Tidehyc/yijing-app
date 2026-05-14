@@ -14,25 +14,12 @@ class HomePage extends StatelessWidget {
       child: Column(
         children: [
           const SizedBox(height: 24),
-          Container(
-            width: 100,
-            height: 100,
-            decoration: BoxDecoration(
-              shape: BoxShape.circle,
-              border: Border.all(
-                color: AppColors.inkBlack.withValues(alpha: 0.3),
-                width: 2,
-              ),
-              color: AppColors.antiquePaperLight,
-            ),
-            child: Center(
-              child: Text(
-                '☯',
-                style: TextStyle(
-                  fontSize: 44,
-                  color: AppColors.inkBlack.withValues(alpha: 0.6),
-                ),
-              ),
+          ClipRRect(
+            borderRadius: BorderRadius.circular(16),
+            child: Image.asset(
+              'assets/images/app_icon.png',
+              width: 100,
+              height: 100,
             ),
           ),
           const SizedBox(height: 16),
